@@ -1,0 +1,259 @@
+{
+  "words": [
+    {
+      "word": "classroom",
+      "mean": "教室",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/2/3 10:2",
+      "id": 1
+    },
+    {
+      "word": "window",
+      "mean": "窗户",
+      "allTesting": 4,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:3",
+      "id": 2
+    },
+    {
+      "word": "blackboard",
+      "mean": "黑板",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:5",
+      "id": 3
+    },
+    {
+      "word": "light",
+      "mean": "电灯",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:5",
+      "id": 4
+    },
+    {
+      "word": "picture",
+      "mean": "图画",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:7",
+      "id": 5
+    },
+    {
+      "word": "door",
+      "mean": "门",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/2/3 10:7",
+      "id": 6
+    },
+    {
+      "word": "teacher's desk",
+      "mean": "讲台",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/2/3 10:9",
+      "id": 7
+    },
+    {
+      "word": "computer",
+      "mean": "计算机",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/2/3 10:10",
+      "id": 8
+    },
+    {
+      "word": "fan",
+      "mean": "风扇",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/2/3 10:11",
+      "id": 9
+    },
+    {
+      "word": "wall",
+      "mean": "墙壁",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:12",
+      "id": 10
+    },
+    {
+      "word": "floor",
+      "mean": "地板",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:12",
+      "id": 11
+    },
+    {
+      "word": "really",
+      "mean": "真的",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/2/3 10:13",
+      "id": 12
+    },
+    {
+      "word": "near",
+      "mean": "距离近",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/2/3 10:14",
+      "id": 13
+    },
+    {
+      "word": "TV",
+      "mean": "电视（缩写）",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/2/3 10:15",
+      "id": 14
+    },
+    {
+      "word": "clean",
+      "mean": "打扫",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/2/3 10:17",
+      "id": 15
+    },
+    {
+      "word": "help",
+      "mean": "帮助",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/2/3 10:17",
+      "id": 16
+    },
+    {
+      "word": "schoolbag",
+      "mean": "书包",
+      "allTesting": 8,
+      "successTesting": 6,
+      "entryDate": "2022/2/5 15:46",
+      "id": 17
+    },
+    {
+      "word": "maths book",
+      "mean": "数学书",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/2/5 15:47",
+      "id": 18
+    },
+    {
+      "word": "english book",
+      "mean": "英语书",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/2/5 15:53",
+      "id": 19
+    },
+    {
+      "word": "chinese book",
+      "mean": "语文书",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/2/5 15:57",
+      "id": 20
+    },
+    {
+      "word": "story book",
+      "mean": "故事书",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/2/5 15:59",
+      "id": 21
+    },
+    {
+      "word": "candy",
+      "mean": "糖果",
+      "allTesting": 13,
+      "successTesting": 13,
+      "entryDate": "2022/2/5 15:59",
+      "id": 22
+    },
+    {
+      "word": "notebook",
+      "mean": "笔记本",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/2/5 16:1",
+      "id": 23
+    },
+    {
+      "word": "toy",
+      "mean": "玩具",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/2/5 16:1",
+      "id": 24
+    },
+    {
+      "word": "key",
+      "mean": "钥匙",
+      "allTesting": 13,
+      "successTesting": 12,
+      "entryDate": "2022/2/5 16:2",
+      "id": 25
+    },
+    {
+      "word": "wow",
+      "mean": "哇；呀",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/2/5 16:3",
+      "id": 26
+    },
+    {
+      "word": "lost",
+      "mean": "丢失",
+      "allTesting": 10,
+      "successTesting": 8,
+      "entryDate": "2022/2/5 16:5",
+      "id": 27
+    },
+    {
+      "word": "so much",
+      "mean": "非常地",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/2/5 16:30",
+      "id": 28
+    },
+    {
+      "word": "cute",
+      "mean": "可爱的",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/2/5 16:31",
+      "id": 29
+    },
+    {
+      "word": "strong",
+      "mean": "强壮的",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/2/5 16:32",
+      "id": 30
+    },
+    {
+      "word": "friendly",
+      "mean": "友好的",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/2/5 16:33",
+      "id": 31
+    }
+  ],
+  "daily": {
+    "todayAllTest": 10,
+    "todaySuccess": 9,
+    "yesterdayAllTest": 0,
+    "yesterdaySuccess": 0,
+    "id": 1
+  }
+}
