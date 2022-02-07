@@ -11,24 +11,35 @@
         <div class="in" v-if="input">
             <h1>{{words.id +" - " +words.mean}}</h1>
             <el-input placeholder="请输入单词" v-model="inputWord" clearable style="width:200px" @keyup.enter="insWords"> </el-input>
-            <!-- <button @click="t">1</button> -->
+            
             <el-switch v-model="autoAudio" active-color="#13ce66" inactive-color="#ff4949"></el-switch>
             <br>
             <audio v-if="autoAudio" autoplay="" name="media"><source :src=this.srcL+words.word+this.srcR type="audio/mpeg"></audio>
             <br>
             <br>
             <small style="margin-left:8vw">今日已检测{{this.$store.state.dailyData.todayAllTest}}个</small>
+            <div class="message">
+            <small>截止目前方坑好累计输入{{this.daily.todayAllTest}}个,其中正确了{{this.daily.todaySuccess}}个
+            。正确率为{{(this.daily.todaySuccess/this.daily.todayAllTest).toFixed(3)*100+'%'}}。</small>
+        <h1 v-if="(this.daily.yesterdayAllTest)==0">方坑好昨天偷懒。果然是最坑的人，最坑的人就是方坑好.居然敢偷懒，方坑好就是
+            方坑好 方窝害 方抖音 方快手 方蒸米粑 方炒面 方臭脚 方铁手 方面包 方番茄 方小傻 方方便面 方怕黑 方秃头 方嘟嘴 方披头 方臭屁 方辣条 方酒鬼 方乌梅  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br>最坑的人居然敢偷懒!不可饶恕
+        </h1>
+        <small v-if="(this.daily.yesterdayAllTest)!=0">昨天方坑好输入了{{this.daily.yesterdayAllTest}}个,正确了{{this.daily.yesterdaySuccess}}个。
+            正确率为{{(this.daily.yesterdaySuccess/this.daily.yesterdayAllTest).toFixed(3)*100+'%'}}</small>
+            </div>
         </div>
+        
+        <!-- <button @click="t">1</button> -->
     </div>
 </template>
 
 <style lang="scss" scoped>
   .test {
-      background-color: aliceblue;
         background: no-repeat left /30% url("../../public/bac.jpg");
         height: 89vh;
         width: 100%;
-
+        box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+        border-radius: 10px;
     .button {
         position: relative;
         margin-left: 40%;
@@ -38,6 +49,9 @@
         position: relative;
         margin-left: 40%;
         padding-top: 2%;
+    }
+    .message {
+        margin-top: 25%;
     }
   }
   
@@ -61,22 +75,24 @@ export default {
             srcL:'https://ssl.gstatic.com/dictionary/static/sounds/oxford/',
             srcR:'--_us_1.mp3',
             autoAudio:false,
+            daily:{},
         }
     },
     methods: {
-        //  t(){
-        // //     // alert(localStorage.getItem('today'))
-        // //     // localStorage.setItem('today',`4`);
-        // //     //localStorage.removeItem('todayAllTest')
-        // //     localStorage.setItem('todayAllTest',0);
-        // //     localStorage.setItem('todaySuccess',0);
-        // //     localStorage.setItem('dayPoint', 0);
-        //      localStorage.setItem('addWord', 15);
-        // //     localStorage.setItem('today', 0);
-        // //     localStorage.setItem('weekPoint', 0);
-        // //     localStorage.setItem('dayPoint', 0);
-        // //     //localStorage.removeItem('todaySuccess')
-        //     },
+        //   t(){
+        // // //     // alert(localStorage.getItem('today'))
+        // // //     // localStorage.setItem('today',`4`);
+        // // //     //localStorage.removeItem('todayAllTest')
+        // // //     localStorage.setItem('todayAllTest',0);
+        // // //     localStorage.setItem('todaySuccess',0);
+        // // //     localStorage.setItem('dayPoint', 0);
+        // //      localStorage.setItem('addWord', 15);
+        // // //     localStorage.setItem('today', 0);
+        //      localStorage.setItem('toWeek',1)
+        //      localStorage.setItem('today',1)
+        // // //     localStorage.setItem('dayPoint', 0);
+        // // //     //localStorage.removeItem('todaySuccess')
+        //      },
         insWords(){
             
             if(this.inputWord.trim() === this.words.word){
@@ -192,6 +208,9 @@ export default {
         //console.log(this.$store.state.tableData);
 			})
       }
+      axios.get(`http://localhost:3000/daily`).then((result) => {
+        this.daily = result.data
+			})
     },
 }
 </script>

@@ -11,8 +11,7 @@
       </div>
       <div class="line">
           <div class="line-left"><el-progress :percentage="this.reviewAll"></el-progress></div>
-          <div class="line-right"><small>每天复习总量80+80 | {{this.$store.state.dailyData.todayAllTest}}</small></div>
-          
+          <div class="line-right"><small>每天复习总量100+100 | {{this.$store.state.dailyData.todayAllTest}}</small></div>
       </div>
       <div class="line">
           <div class="line-left"><el-progress :percentage="this.successAll"></el-progress></div>
@@ -20,15 +19,17 @@
       </div>
       <br><br>
       <div class="line">
-          <el-progress type="dashboard" :percentage="this.$store.state.dailyData.weekPoint+this.$store.state.dailyData.dayPoint*100/21">
+          <el-progress type="dashboard" :percentage="+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint)*100/21">
     <template #default="{ }">
-      <span class="percentage-value">{{ this.$store.state.dailyData.weekPoint+this.$store.state.dailyData.dayPoint + '分'}}</span>
+      <span class="percentage-value">{{ +this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint) + '分'}}</span>
     </template>
   </el-progress>
-  <small>满分15分,本周应获得{{(this.$store.state.dailyData.weekPoint+this.$store.state.dailyData.dayPoint/15)*5+'元'}}</small>
+  <small>满分15分,本周应获得{{(+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint))/3+'元'}}</small>
           <div class="line-right" style="margin-top:4.5vh"><el-button type="success" @click="update">提交</el-button></div>
       </div>
+      
   </div>
+  
 </template>
 
 <script>
@@ -38,7 +39,7 @@ import axios from 'axios'
           return {
               dailyAll:this.$store.state.tableData.length/1000, 
               addAll:Number(((Number(this.$store.state.dailyData.addWord)/15)*100).toFixed(1)),
-              reviewAll:Number(((Number(this.$store.state.dailyData.todayAllTest)/160)*100).toFixed(1)) ,
+              reviewAll:Number(((Number(this.$store.state.dailyData.todayAllTest)/200)*100).toFixed(1)) ,
               successAll:Number( (Number(this.$store.state.dailyData.todaySuccess)/Number(this.$store.state.dailyData.todayAllTest)*100).toFixed(2)),
           }
       },
@@ -84,6 +85,7 @@ import axios from 'axios'
         //console.log(this.$store.state.tableData);
 			})
       }
+      
 
     },
   }

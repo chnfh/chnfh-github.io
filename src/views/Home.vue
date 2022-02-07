@@ -30,7 +30,9 @@
     <el-table-column label="ID" prop="id"> </el-table-column>
     <el-table-column label="单词" prop="word"> </el-table-column>
     <el-table-column label="词意" prop="mean"> </el-table-column>
+    
   </el-table>
+  
 </template>
 
 <script>

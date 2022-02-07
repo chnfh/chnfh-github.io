@@ -1,27 +1,10 @@
-<el-menu-item index="1">Processing Center</el-menu-item>
-    <el-sub-menu index="2">
-      <template #title>Workspace</template>
-      <el-menu-item index="2-1">item one</el-menu-item>
-      <el-menu-item index="2-2">item two</el-menu-item>
-      <el-menu-item index="2-3">item three</el-menu-item>
-      <el-sub-menu index="2-4">
-        <template #title>item four</template>
-        <el-menu-item index="2-4-1">item one</el-menu-item>
-        <el-menu-item index="2-4-2">item two</el-menu-item>
-        <el-menu-item index="2-4-3">item three</el-menu-item>
-      </el-sub-menu>
-    </el-sub-menu>
-    <el-menu-item index="3" disabled>Info</el-menu-item>
-    <el-menu-item index="4">Orders</el-menu-item>
 
-    "nn": [
-    {
-      "todayAllTest": 1,
-      "todaySuccess": 1,
-      "yesterdayAllTest": 1,
-      "yesterdaySuccess": 1,
-      "id": 1
-    }
-  ]
+    1. 使用快捷键 ctrl+~ 打开终端
+    2. 输入 npm run serve 命令并回车，打开Vue服务
+    3. 新建powershell 输入 json-server --watch db.json 开启后端服务
+    4. 打开google浏览器，访问 http://localhost:8080
 
-    
+    出现问题别乱删除或添加
+    重启软件试一试，不行就重启电脑
+    再不行就微信拍一拍
+    (づ￣3￣)づ╭❤～

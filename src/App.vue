@@ -45,11 +45,9 @@ export default {
     }
   },
   mounted() {
+    
     let d = new Date;
     if (localStorage.getItem('today') != d.getDate()) {
-        this.$store.state.dailyData.weekPoint = localStorage.getItem('dayPoint') + localStorage.getItem('weekPoint')
-        localStorage.setItem('weekPoint', this.$store.state.dailyData.weekPoint);
-        this.$store.state.dailyData.dayPoint = 0
       axios.get(`http://localhost:3000/daily`).then((result) => {
         this.los = result.data
         console.log(this.los);
@@ -65,6 +63,8 @@ export default {
 					}
 					})
           setTimeout(() => {
+            this.$store.state.dailyData.weekPoint = Number(localStorage.getItem('dayPoint')) + Number(localStorage.getItem('weekPoint'))
+            localStorage.setItem('weekPoint', this.$store.state.dailyData.weekPoint);
             localStorage.setItem('todayAllTest', 0);
             localStorage.setItem('todaySuccess', 0);
             localStorage.setItem("addWord" , 0)
@@ -72,16 +72,21 @@ export default {
             localStorage.setItem('toWeek',d.getDay())
             localStorage.setItem('dayPoint', 0);
           },);
-        }, 1000);
+        });
       })
     }else{
       this.$store.state.dailyData.todayAllTest = localStorage.getItem('todayAllTest')
       this.$store.state.dailyData.todaySuccess = localStorage.getItem('todaySuccess')
       this.$store.state.dailyData.addWord = localStorage.getItem('addWord')
+      this.$store.state.dailyData.weekPoint = localStorage.getItem('weekPoint')
     }
-    if (localStorage.getItem('toWeek') == 6) {
+    
+    if (localStorage.getItem('toWeek') == 1) {
       localStorage.setItem('toWeek',7)
-      this.$store.state.dailyData.weekPoint = 0
+      setTimeout(() => {
+        localStorage.setItem('weekPoint',0)
+        this.$store.state.dailyData.weekPoint = 0 
+      });
     }
   },
   
