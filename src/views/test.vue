@@ -88,8 +88,8 @@ export default {
         // // //     localStorage.setItem('dayPoint', 0);
         // //      localStorage.setItem('addWord', 15);
         // // //     localStorage.setItem('today', 0);
-        //      localStorage.setItem('toWeek',1)
-        //      localStorage.setItem('today',1)
+        //      localStorage.setItem('weekPoint',9)
+        //     // localStorage.setItem('today',1)
         // // //     localStorage.setItem('dayPoint', 0);
         // // //     //localStorage.removeItem('todaySuccess')
         //      },
