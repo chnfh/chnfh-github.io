@@ -17,7 +17,7 @@
     <div class="body">
       <router-view></router-view>
     </div>
-    <div class="footer">footer</div>
+    <div class="footer">不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。                          -- 宫崎骏 《千与千寻》</div>
   </div>
   
 </template>
@@ -62,15 +62,26 @@ export default {
             yesterdaySuccess : Number(localStorage.getItem('todaySuccess')),
 					}
 					})
+           localStorage.setItem('toWeek',d.getDay())
           setTimeout(() => {
-            this.$store.state.dailyData.weekPoint = Number(localStorage.getItem('dayPoint')) + Number(localStorage.getItem('weekPoint'))
-            localStorage.setItem('weekPoint', this.$store.state.dailyData.weekPoint);
-            localStorage.setItem('todayAllTest', 0);
-            localStorage.setItem('todaySuccess', 0);
-            localStorage.setItem("addWord" , 0)
-            localStorage.setItem('today',d.getDate())
-            localStorage.setItem('toWeek',d.getDay())
-            localStorage.setItem('dayPoint', 0);
+            if (localStorage.getItem('toWeek') == 1) {
+              localStorage.setItem('toWeek',7)
+              setTimeout(() => {
+                localStorage.setItem('weekPoint',0)
+                this.$store.state.dailyData.weekPoint = 0 
+                localStorage.setItem('dayPoint', 0);
+                location.reload()
+              });
+            }else{
+              this.$store.state.dailyData.weekPoint = Number(localStorage.getItem('dayPoint')) + Number(localStorage.getItem('weekPoint'))
+              localStorage.setItem('weekPoint', this.$store.state.dailyData.weekPoint);
+              localStorage.setItem('todayAllTest', 0);
+              localStorage.setItem('todaySuccess', 0);
+              localStorage.setItem("addWord" , 0)
+              localStorage.setItem('today',d.getDate())
+              localStorage.setItem('dayPoint', 0);
+              location.reload()
+            }
           },);
         });
       })
@@ -81,13 +92,7 @@ export default {
       this.$store.state.dailyData.weekPoint = localStorage.getItem('weekPoint')
     }
     
-    if (localStorage.getItem('toWeek') == 1) {
-      localStorage.setItem('toWeek',7)
-      setTimeout(() => {
-        localStorage.setItem('weekPoint',0)
-        this.$store.state.dailyData.weekPoint = 0 
-      });
-    }
+    
   },
   
 };
@@ -109,6 +114,5 @@ export default {
   position: absolute;
   height: 20px;
   bottom: 0px;
-  background-color: red;
 }
 </style>
