@@ -19,12 +19,12 @@
       </div>
       <br><br>
       <div class="line">
-          <el-progress type="dashboard" :percentage="+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint)*100/21">
+          <el-progress type="dashboard" :percentage="(+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint))*5">
     <template #default="{ }">
       <span class="percentage-value">{{ +this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint) + '分'}}</span>
     </template>
   </el-progress>
-  <small>满分15分,本周应获得{{(+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint))/3+'元'}}</small>
+  <small>满分15分,本周应获得{{((+this.$store.state.dailyData.weekPoint+Number(this.$store.state.dailyData.dayPoint))/3).toFixed(1)+'元'}}</small>
           <div class="line-right" style="margin-top:4.5vh"><el-button type="success" @click="update">提交</el-button></div>
       </div>
       

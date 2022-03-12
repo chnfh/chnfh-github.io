@@ -5,6 +5,7 @@
             <el-row>
                 <el-button type="primary" round @click="setRandomWords(1,this.$store.state.tableData.length)">全部复习</el-button>
                 <el-button type="success" round @click="setRandomWords(this.$store.state.tableData.length-15,this.$store.state.tableData.length)">复习15个</el-button>
+                 <el-button type="success" round @click="setRandomWords(this.$store.state.tableData.length-35,this.$store.state.tableData.length)">复习35个</el-button>
             </el-row>
         </div>
 
@@ -13,6 +14,8 @@
             <el-input placeholder="请输入单词" v-model="inputWord" clearable style="width:200px" @keyup.enter="insWords"> </el-input>
             
             <el-switch v-model="autoAudio" active-color="#13ce66" inactive-color="#ff4949"></el-switch>
+            <button class="src" @click="this.srcR='&type=2',this.srcButton=true" v-if="!srcButton">英音</button>
+            <button class="src" @click="this.srcR='&type=1',this.srcButton=false" v-if="srcButton">美音</button>
             <br>
             <audio v-if="autoAudio" autoplay="" name="media"><source :src=this.srcL+words.word+this.srcR type="audio/mpeg"></audio>
             <br>
@@ -34,6 +37,9 @@
 </template>
 
 <style lang="scss" scoped>
+    button.src {
+        
+    }
   .test {
         background: no-repeat left /30% url("../../public/bac.jpg");
         height: 89vh;
@@ -72,27 +78,21 @@ export default {
             input: false,
             min:0,
             max:0,
-            srcL:'https://ssl.gstatic.com/dictionary/static/sounds/oxford/',
-            srcR:'--_us_1.mp3',
+            srcL:'https://dict.youdao.com/dictvoice?audio=',
+            srcR:'&type=2',
+            srcButton:true,
             autoAudio:false,
             daily:{},
+            a:0,
+            b:0,
         }
     },
     methods: {
-        //   t(){
-        // // //     // alert(localStorage.getItem('today'))
-        // // //     // localStorage.setItem('today',`4`);
-        // // //     //localStorage.removeItem('todayAllTest')
-        // // //     localStorage.setItem('todayAllTest',0);
-        // // //     localStorage.setItem('todaySuccess',0);
-        // // //     localStorage.setItem('dayPoint', 0);
-        // //      localStorage.setItem('addWord', 15);
-        // // //     localStorage.setItem('today', 0);
-        //      localStorage.setItem('weekPoint',9)
-        //     // localStorage.setItem('today',1)
-        // // //     localStorage.setItem('dayPoint', 0);
-        // // //     //localStorage.removeItem('todaySuccess')
-        //      },
+           t(){
+       
+            localStorage.setItem('today',`4`);
+       
+              },
         insWords(){
             
             if(this.inputWord.trim() === this.words.word){

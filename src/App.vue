@@ -49,9 +49,9 @@ export default {
     let d = new Date;
     if (localStorage.getItem('today') != d.getDate()) {
       axios.get(`http://localhost:3000/daily`).then((result) => {
+        console.log(1);
         this.los = result.data
         console.log(this.los);
-        setTimeout(() => {
           axios({
 					method: 'patch',
 					url: `http://localhost:3000/daily`,
@@ -61,18 +61,28 @@ export default {
             yesterdayAllTest : Number(localStorage.getItem('todayAllTest')),
             yesterdaySuccess : Number(localStorage.getItem('todaySuccess')),
 					}
-					})
-           localStorage.setItem('toWeek',d.getDay())
-          setTimeout(() => {
+					}).then(() => {
+            console.log(2);
+            axios({
+					method: 'post',
+					url: `http://localhost:3000/dailyData`,
+					data: {
+            date:localStorage.getItem('yesterdayDate'),
+            allTest: Number(localStorage.getItem('todayAllTest')),
+            successTest: Number(localStorage.getItem('todaySuccess'))
+					}
+          
+      }).then(() => {
+        console.log(3);
+        localStorage.setItem('toWeek',d.getDay())
             if (localStorage.getItem('toWeek') == 1) {
-              localStorage.setItem('toWeek',7)
-              setTimeout(() => {
+                localStorage.setItem('toWeek',7)
                 localStorage.setItem('weekPoint',0)
                 this.$store.state.dailyData.weekPoint = 0 
                 localStorage.setItem('dayPoint', 0);
-                location.reload()
-              });
+               // location.reload()
             }else{
+              console.log(4);
               this.$store.state.dailyData.weekPoint = Number(localStorage.getItem('dayPoint')) + Number(localStorage.getItem('weekPoint'))
               localStorage.setItem('weekPoint', this.$store.state.dailyData.weekPoint);
               localStorage.setItem('todayAllTest', 0);
@@ -80,22 +90,25 @@ export default {
               localStorage.setItem("addWord" , 0)
               localStorage.setItem('today',d.getDate())
               localStorage.setItem('dayPoint', 0);
-              location.reload()
-            }
-          },);
-        });
+            } 
       })
+          })
+      })
+          
+        
     }else{
       this.$store.state.dailyData.todayAllTest = localStorage.getItem('todayAllTest')
       this.$store.state.dailyData.todaySuccess = localStorage.getItem('todaySuccess')
       this.$store.state.dailyData.addWord = localStorage.getItem('addWord')
       this.$store.state.dailyData.weekPoint = localStorage.getItem('weekPoint')
+       localStorage.setItem('yesterdayDate' , d.getFullYear()+"/"+(d.getMonth()+1)+"/"+d.getDate())
     }
     
-    
-  },
-  
-};
+      
+      
+
+},
+}
 </script>
 
 <style scoped>
