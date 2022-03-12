@@ -63,15 +63,17 @@ export default {
 					}
 					}).then(() => {
             console.log(2);
-            axios({
+           axios({
 					method: 'post',
-					url: `http://localhost:3000/dailyData`,
+					//url: `http://localhost:3000/dailyData`,
+          url: `http://localhost:3000/monthDatas/${localStorage.getItem('yesterYearDate')}/day`,
 					data: {
-            date:localStorage.getItem('yesterdayDate'),
+            id:localStorage.getItem('yesterdayDate'),
+            monthDataId: localStorage.getItem('yesterYearDate'),
             allTest: Number(localStorage.getItem('todayAllTest')),
-            successTest: Number(localStorage.getItem('todaySuccess'))
+            successTest: Number(localStorage.getItem('todaySuccess')),
+            addWord:Number(localStorage.getItem('addWord')),
 					}
-          
       }).then(() => {
         console.log(3);
         localStorage.setItem('toWeek',d.getDay())
@@ -101,7 +103,8 @@ export default {
       this.$store.state.dailyData.todaySuccess = localStorage.getItem('todaySuccess')
       this.$store.state.dailyData.addWord = localStorage.getItem('addWord')
       this.$store.state.dailyData.weekPoint = localStorage.getItem('weekPoint')
-       localStorage.setItem('yesterdayDate' , d.getFullYear()+"/"+(d.getMonth()+1)+"/"+d.getDate())
+      localStorage.setItem('yesterYearDate' , d.getFullYear()+"-"+(d.getMonth()+1))
+      localStorage.setItem('yesterdayDate' , d.getDate())
     }
     
       
