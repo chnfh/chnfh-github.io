@@ -68,7 +68,7 @@ export default {
 					//url: `http://localhost:3000/dailyData`,
           url: `http://localhost:3000/monthDatas/${localStorage.getItem('yesterYearDate')}/day`,
 					data: {
-            id:localStorage.getItem('yesterdayDate'),
+            id:Number(localStorage.getItem('yesterdayDate')),
             monthDataId: localStorage.getItem('yesterYearDate'),
             allTest: Number(localStorage.getItem('todayAllTest')),
             successTest: Number(localStorage.getItem('todaySuccess')),
@@ -82,6 +82,9 @@ export default {
                 localStorage.setItem('weekPoint',0)
                 this.$store.state.dailyData.weekPoint = 0 
                 localStorage.setItem('dayPoint', 0);
+                localStorage.setItem('yesterYearDate' , d.getFullYear()+"-"+(d.getMonth()+1))
+                localStorage.setItem('yesterdayDate' , d.getDate())
+                localStorage.setItem('today',d.getDate())
                // location.reload()
             }else{
               console.log(4);
@@ -92,6 +95,8 @@ export default {
               localStorage.setItem("addWord" , 0)
               localStorage.setItem('today',d.getDate())
               localStorage.setItem('dayPoint', 0);
+              localStorage.setItem('yesterYearDate' , d.getFullYear()+"-"+(d.getMonth()+1))
+              localStorage.setItem('yesterdayDate' , d.getDate())
             } 
       })
           })

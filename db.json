@@ -11,8 +11,8 @@
     {
       "word": "window",
       "mean": "窗户",
-      "allTesting": 21,
-      "successTesting": 19,
+      "allTesting": 25,
+      "successTesting": 22,
       "entryDate": "2022/2/3 10:3",
       "id": 2
     },
@@ -27,48 +27,48 @@
     {
       "word": "light",
       "mean": "电灯",
-      "allTesting": 21,
-      "successTesting": 21,
+      "allTesting": 22,
+      "successTesting": 22,
       "entryDate": "2022/2/3 10:5",
       "id": 4
     },
     {
       "word": "picture",
       "mean": "图画",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 26,
+      "successTesting": 26,
       "entryDate": "2022/2/3 10:7",
       "id": 5
     },
     {
       "word": "door",
       "mean": "门",
-      "allTesting": 23,
-      "successTesting": 23,
+      "allTesting": 25,
+      "successTesting": 25,
       "entryDate": "2022/2/3 10:7",
       "id": 6
     },
     {
       "word": "teacher's desk",
       "mean": "讲台",
-      "allTesting": 17,
-      "successTesting": 15,
+      "allTesting": 21,
+      "successTesting": 17,
       "entryDate": "2022/2/3 10:9",
       "id": 7
     },
     {
       "word": "computer",
       "mean": "计算机",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 28,
+      "successTesting": 28,
       "entryDate": "2022/2/3 10:10",
       "id": 8
     },
     {
       "word": "fan",
       "mean": "风扇",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/3 10:11",
       "id": 9
     },
@@ -83,40 +83,40 @@
     {
       "word": "floor",
       "mean": "地板",
-      "allTesting": 30,
-      "successTesting": 30,
+      "allTesting": 32,
+      "successTesting": 32,
       "entryDate": "2022/2/3 10:12",
       "id": 11
     },
     {
       "word": "really",
       "mean": "真的",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/3 10:13",
       "id": 12
     },
     {
       "word": "near",
       "mean": "距离近",
-      "allTesting": 21,
-      "successTesting": 21,
+      "allTesting": 24,
+      "successTesting": 24,
       "entryDate": "2022/2/3 10:14",
       "id": 13
     },
     {
       "word": "TV",
       "mean": "电视（缩写）",
-      "allTesting": 20,
-      "successTesting": 19,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/3 10:15",
       "id": 14
     },
     {
       "word": "clean",
       "mean": "打扫",
-      "allTesting": 17,
-      "successTesting": 16,
+      "allTesting": 23,
+      "successTesting": 22,
       "entryDate": "2022/2/3 10:17",
       "id": 15
     },
@@ -131,208 +131,208 @@
     {
       "word": "schoolbag",
       "mean": "书包",
-      "allTesting": 25,
-      "successTesting": 19,
+      "allTesting": 28,
+      "successTesting": 22,
       "entryDate": "2022/2/5 15:46",
       "id": 17
     },
     {
       "word": "maths book",
       "mean": "数学书",
-      "allTesting": 26,
-      "successTesting": 26,
+      "allTesting": 30,
+      "successTesting": 29,
       "entryDate": "2022/2/5 15:47",
       "id": 18
     },
     {
       "word": "english book",
       "mean": "英语书",
-      "allTesting": 25,
-      "successTesting": 23,
+      "allTesting": 28,
+      "successTesting": 26,
       "entryDate": "2022/2/5 15:53",
       "id": 19
     },
     {
       "word": "chinese book",
       "mean": "语文书",
-      "allTesting": 22,
-      "successTesting": 22,
+      "allTesting": 28,
+      "successTesting": 28,
       "entryDate": "2022/2/5 15:57",
       "id": 20
     },
     {
       "word": "story book",
       "mean": "故事书",
-      "allTesting": 23,
-      "successTesting": 21,
+      "allTesting": 25,
+      "successTesting": 23,
       "entryDate": "2022/2/5 15:59",
       "id": 21
     },
     {
       "word": "candy",
       "mean": "糖果",
-      "allTesting": 38,
-      "successTesting": 37,
+      "allTesting": 40,
+      "successTesting": 39,
       "entryDate": "2022/2/5 15:59",
       "id": 22
     },
     {
       "word": "notebook",
       "mean": "笔记本",
-      "allTesting": 31,
-      "successTesting": 31,
+      "allTesting": 32,
+      "successTesting": 32,
       "entryDate": "2022/2/5 16:1",
       "id": 23
     },
     {
       "word": "toy",
       "mean": "玩具",
-      "allTesting": 24,
-      "successTesting": 24,
+      "allTesting": 29,
+      "successTesting": 29,
       "entryDate": "2022/2/5 16:1",
       "id": 24
     },
     {
       "word": "key",
       "mean": "钥匙",
-      "allTesting": 33,
-      "successTesting": 31,
+      "allTesting": 36,
+      "successTesting": 34,
       "entryDate": "2022/2/5 16:2",
       "id": 25
     },
     {
       "word": "wow",
       "mean": "哇；呀",
-      "allTesting": 23,
-      "successTesting": 23,
+      "allTesting": 25,
+      "successTesting": 25,
       "entryDate": "2022/2/5 16:3",
       "id": 26
     },
     {
       "word": "lost",
       "mean": "丢失",
-      "allTesting": 21,
-      "successTesting": 19,
+      "allTesting": 25,
+      "successTesting": 22,
       "entryDate": "2022/2/5 16:5",
       "id": 27
     },
     {
       "word": "so much",
       "mean": "非常地",
-      "allTesting": 19,
-      "successTesting": 18,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/5 16:30",
       "id": 28
     },
     {
       "word": "cute",
       "mean": "可爱的",
-      "allTesting": 25,
-      "successTesting": 25,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/5 16:31",
       "id": 29
     },
     {
       "word": "strong",
       "mean": "强壮的",
-      "allTesting": 21,
-      "successTesting": 20,
+      "allTesting": 26,
+      "successTesting": 25,
       "entryDate": "2022/2/5 16:32",
       "id": 30
     },
     {
       "word": "friendly",
       "mean": "友好的",
-      "allTesting": 39,
-      "successTesting": 38,
+      "allTesting": 40,
+      "successTesting": 39,
       "entryDate": "2022/2/5 16:33",
       "id": 31
     },
     {
       "word": "quiet",
       "mean": "安静的",
-      "allTesting": 35,
-      "successTesting": 35,
+      "allTesting": 37,
+      "successTesting": 37,
       "entryDate": "2022/2/6 9:57",
       "id": 32
     },
     {
       "word": "hair",
       "mean": "头发",
-      "allTesting": 26,
-      "successTesting": 26,
+      "allTesting": 28,
+      "successTesting": 28,
       "entryDate": "2022/2/6 9:57",
       "id": 33
     },
     {
       "word": "shoe",
       "mean": "鞋",
-      "allTesting": 23,
-      "successTesting": 23,
+      "allTesting": 24,
+      "successTesting": 24,
       "entryDate": "2022/2/6 9:58",
       "id": 34
     },
     {
       "word": "glasses",
       "mean": "眼镜",
-      "allTesting": 18,
-      "successTesting": 16,
+      "allTesting": 21,
+      "successTesting": 18,
       "entryDate": "2022/2/6 9:58",
       "id": 35
     },
     {
       "word": "his",
       "mean": "他的",
-      "allTesting": 34,
-      "successTesting": 33,
+      "allTesting": 36,
+      "successTesting": 35,
       "entryDate": "2022/2/6 9:59",
       "id": 36
     },
     {
       "word": "or",
       "mean": "或者",
-      "allTesting": 36,
-      "successTesting": 36,
+      "allTesting": 38,
+      "successTesting": 38,
       "entryDate": "2022/2/6 9:59",
       "id": 37
     },
     {
       "word": "right",
       "mean": "正确的；对的",
-      "allTesting": 38,
-      "successTesting": 37,
+      "allTesting": 39,
+      "successTesting": 38,
       "entryDate": "2022/2/6 10:1",
       "id": 38
     },
     {
       "word": "hat",
       "mean": "帽子",
-      "allTesting": 32,
-      "successTesting": 32,
+      "allTesting": 39,
+      "successTesting": 38,
       "entryDate": "2022/2/6 10:1",
       "id": 39
     },
     {
       "word": "her",
       "mean": "她的",
-      "allTesting": 30,
-      "successTesting": 30,
+      "allTesting": 32,
+      "successTesting": 32,
       "entryDate": "2022/2/6 10:1",
       "id": 40
     },
     {
       "word": "bedroom",
       "mean": "卧室",
-      "allTesting": 34,
-      "successTesting": 33,
+      "allTesting": 39,
+      "successTesting": 37,
       "entryDate": "2022/2/6 10:2",
       "id": 41
     },
     {
       "word": "living room",
       "mean": "客厅",
-      "allTesting": 26,
-      "successTesting": 24,
+      "allTesting": 30,
+      "successTesting": 28,
       "entryDate": "2022/2/6 10:4",
       "id": 42
     },
@@ -347,55 +347,55 @@
     {
       "word": "kitchen",
       "mean": "厨房",
-      "allTesting": 27,
-      "successTesting": 25,
+      "allTesting": 28,
+      "successTesting": 26,
       "entryDate": "2022/2/6 10:5",
       "id": 44
     },
     {
       "word": "bathroom",
       "mean": "浴室；洗手间",
-      "allTesting": 24,
-      "successTesting": 24,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/6 10:6",
       "id": 45
     },
     {
       "word": "bed",
       "mean": "床",
-      "allTesting": 37,
-      "successTesting": 37,
+      "allTesting": 41,
+      "successTesting": 41,
       "entryDate": "2022/2/6 10:7",
       "id": 46
     },
     {
       "word": "phone",
       "mean": "电话",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/7 9:53",
       "id": 47
     },
     {
       "word": "table",
       "mean": "桌子",
-      "allTesting": 22,
-      "successTesting": 22,
+      "allTesting": 27,
+      "successTesting": 26,
       "entryDate": "2022/2/7 9:53",
       "id": 48
     },
     {
       "word": "sofa",
       "mean": "长沙发",
-      "allTesting": 21,
-      "successTesting": 21,
+      "allTesting": 22,
+      "successTesting": 22,
       "entryDate": "2022/2/7 9:53",
       "id": 49
     },
     {
       "word": "fridge",
       "mean": "冰箱",
-      "allTesting": 19,
+      "allTesting": 22,
       "successTesting": 18,
       "entryDate": "2022/2/7 9:54",
       "id": 50
@@ -403,31 +403,31 @@
     {
       "word": "find",
       "mean": "找到",
-      "allTesting": 24,
-      "successTesting": 23,
+      "allTesting": 30,
+      "successTesting": 29,
       "entryDate": "2022/2/7 9:55",
       "id": 51
     },
     {
       "word": "them",
       "mean": "他（她，它）们",
-      "allTesting": 22,
-      "successTesting": 22,
+      "allTesting": 23,
+      "successTesting": 23,
       "entryDate": "2022/2/7 9:55",
       "id": 52
     },
     {
       "word": "beef",
       "mean": "牛肉",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/7 9:56",
       "id": 53
     },
     {
       "word": "chicken",
       "mean": "鸡肉",
-      "allTesting": 19,
+      "allTesting": 23,
       "successTesting": 19,
       "entryDate": "2022/2/7 9:57",
       "id": 54
@@ -435,32 +435,32 @@
     {
       "word": "noodles",
       "mean": "面条",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 22,
+      "successTesting": 21,
       "entryDate": "2022/2/7 9:58",
       "id": 55
     },
     {
       "word": "soup",
       "mean": "汤",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/7 9:59",
       "id": 56
     },
     {
       "word": "vegetable",
       "mean": "蔬菜",
-      "allTesting": 24,
-      "successTesting": 21,
+      "allTesting": 28,
+      "successTesting": 24,
       "entryDate": "2022/2/7 9:59",
       "id": 57
     },
     {
       "word": "chopsticks",
       "mean": "筷子",
-      "allTesting": 19,
-      "successTesting": 17,
+      "allTesting": 22,
+      "successTesting": 18,
       "entryDate": "2022/2/7 10:0",
       "id": 58
     },
@@ -475,64 +475,64 @@
     {
       "word": "fork",
       "mean": "餐叉",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/7 10:1",
       "id": 60
     },
     {
       "word": "knife",
       "mean": "刀",
-      "allTesting": 24,
-      "successTesting": 23,
+      "allTesting": 27,
+      "successTesting": 26,
       "entryDate": "2022/2/7 10:2",
       "id": 61
     },
     {
       "word": "spoon",
       "mean": "勺",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/8 8:46",
       "id": 62
     },
     {
       "word": "dinner",
       "mean": "（中午或晚上吃的）正餐",
-      "allTesting": 19,
-      "successTesting": 18,
+      "allTesting": 26,
+      "successTesting": 24,
       "entryDate": "2022/2/8 8:46",
       "id": 63
     },
     {
       "word": "ready",
       "mean": "准备好",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/8 8:48",
       "id": 64
     },
     {
       "word": "pass",
       "mean": "给；递",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/8 8:48",
       "id": 65
     },
     {
       "word": "help yourself",
       "mean": "为（自己）取用",
-      "allTesting": 18,
-      "successTesting": 18,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/8 8:49",
       "id": 66
     },
     {
       "word": "try",
       "mean": "试；尝试",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/8 8:50",
       "id": 67
     },
@@ -547,55 +547,55 @@
     {
       "word": "cousin",
       "mean": "同辈表亲（或堂亲）",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/8 8:52",
       "id": 69
     },
     {
       "word": "uncle",
       "mean": "舅父；叔父",
-      "allTesting": 22,
-      "successTesting": 22,
+      "allTesting": 26,
+      "successTesting": 26,
       "entryDate": "2022/2/8 8:54",
       "id": 70
     },
     {
       "word": "aunt",
       "mean": "姑母；姨母",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/2/8 8:54",
       "id": 71
     },
     {
       "word": "baby",
       "mean": "婴儿小弟弟",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/8 8:55",
       "id": 72
     },
     {
       "word": "doctor",
       "mean": "医生",
-      "allTesting": 16,
-      "successTesting": 15,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/2/8 8:56",
       "id": 73
     },
     {
       "word": "cook",
       "mean": "厨师",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/8 8:56",
       "id": 74
     },
     {
       "word": "driver",
       "mean": "司机",
-      "allTesting": 15,
+      "allTesting": 16,
       "successTesting": 15,
       "entryDate": "2022/2/8 8:57",
       "id": 75
@@ -603,103 +603,103 @@
     {
       "word": "farmer",
       "mean": "农民",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/8 8:57",
       "id": 76
     },
     {
       "word": "nurse",
       "mean": "护士",
-      "allTesting": 15,
-      "successTesting": 14,
+      "allTesting": 20,
+      "successTesting": 19,
       "entryDate": "2022/2/9 9:24",
       "id": 77
     },
     {
       "word": "people",
       "mean": "人们",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/9 9:25",
       "id": 78
     },
     {
       "word": "but",
       "mean": "但是",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/9 10:0",
       "id": 79
     },
     {
       "word": "little",
       "mean": "小的",
-      "allTesting": 11,
-      "successTesting": 7,
+      "allTesting": 13,
+      "successTesting": 9,
       "entryDate": "2022/2/9 10:0",
       "id": 80
     },
     {
       "word": "puppy",
       "mean": "小狗",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/9 10:0",
       "id": 81
     },
     {
       "word": "football player",
       "mean": "足球运动员",
-      "allTesting": 17,
-      "successTesting": 12,
+      "allTesting": 22,
+      "successTesting": 17,
       "entryDate": "2022/2/9 10:1",
       "id": 82
     },
     {
       "word": "job",
       "mean": "工作",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/9 10:2",
       "id": 83
     },
     {
       "word": "basketball",
       "mean": "篮球",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/9 10:2",
       "id": 84
     },
     {
       "word": "first floor",
       "mean": "一楼",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/9 10:4",
       "id": 85
     },
     {
       "word": "second floor",
       "mean": "二楼",
-      "allTesting": 17,
-      "successTesting": 16,
+      "allTesting": 21,
+      "successTesting": 19,
       "entryDate": "2022/2/9 10:5",
       "id": 86
     },
     {
       "word": "teachers office",
       "mean": "教师办公室",
-      "allTesting": 16,
-      "successTesting": 10,
+      "allTesting": 19,
+      "successTesting": 13,
       "entryDate": "2022/2/9 10:10",
       "id": 87
     },
     {
       "word": "library",
       "mean": "图书馆",
-      "allTesting": 16,
+      "allTesting": 17,
       "successTesting": 16,
       "entryDate": "2022/2/9 10:10",
       "id": 88
@@ -707,8 +707,8 @@
     {
       "word": "playground",
       "mean": "操场",
-      "allTesting": 14,
-      "successTesting": 12,
+      "allTesting": 20,
+      "successTesting": 17,
       "entryDate": "2022/2/9 10:11",
       "id": 89
     },
@@ -723,40 +723,40 @@
     {
       "word": "art room",
       "mean": "美术室",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/9 10:12",
       "id": 91
     },
     {
       "word": "music room",
       "mean": "音乐室",
-      "allTesting": 15,
-      "successTesting": 14,
+      "allTesting": 19,
+      "successTesting": 18,
       "entryDate": "2022/2/9 10:13",
       "id": 92
     },
     {
       "word": "next to",
       "mean": "紧挨着",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 13,
+      "successTesting": 11,
       "entryDate": "2022/2/10 8:45",
       "id": 93
     },
     {
       "word": "homework",
       "mean": "作业",
-      "allTesting": 36,
-      "successTesting": 36,
+      "allTesting": 40,
+      "successTesting": 39,
       "entryDate": "2022/2/10 8:46",
       "id": 94
     },
     {
       "word": "class",
       "mean": "班；班级",
-      "allTesting": 23,
-      "successTesting": 23,
+      "allTesting": 25,
+      "successTesting": 25,
       "entryDate": "2022/2/10 8:47",
       "id": 95
     },
@@ -771,88 +771,88 @@
     {
       "word": "way",
       "mean": "方向",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/10 8:48",
       "id": 97
     },
     {
       "word": "breakfast",
       "mean": "早餐；早饭",
-      "allTesting": 27,
-      "successTesting": 26,
+      "allTesting": 30,
+      "successTesting": 29,
       "entryDate": "2022/2/10 8:48",
       "id": 98
     },
     {
       "word": "english class",
       "mean": "英语课",
-      "allTesting": 22,
-      "successTesting": 22,
+      "allTesting": 24,
+      "successTesting": 24,
       "entryDate": "2022/2/10 8:49",
       "id": 99
     },
     {
       "word": "lunch",
       "mean": "午餐；午饭",
-      "allTesting": 27,
-      "successTesting": 26,
+      "allTesting": 30,
+      "successTesting": 29,
       "entryDate": "2022/2/10 8:50",
       "id": 100
     },
     {
       "word": "music class",
       "mean": "音乐课",
-      "allTesting": 18,
-      "successTesting": 17,
+      "allTesting": 19,
+      "successTesting": 18,
       "entryDate": "2022/2/10 8:51",
       "id": 101
     },
     {
       "word": "PE class",
       "mean": "体育课",
-      "allTesting": 20,
-      "successTesting": 19,
+      "allTesting": 23,
+      "successTesting": 22,
       "entryDate": "2022/2/10 8:51",
       "id": 102
     },
     {
       "word": "get up",
       "mean": "起床",
-      "allTesting": 32,
-      "successTesting": 28,
+      "allTesting": 33,
+      "successTesting": 29,
       "entryDate": "2022/2/10 8:53",
       "id": 103
     },
     {
       "word": "go to school",
       "mean": "去上学",
-      "allTesting": 18,
-      "successTesting": 18,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/10 8:54",
       "id": 104
     },
     {
       "word": "go home",
       "mean": "回家",
-      "allTesting": 25,
-      "successTesting": 23,
+      "allTesting": 29,
+      "successTesting": 27,
       "entryDate": "2022/2/10 8:54",
       "id": 105
     },
     {
       "word": "go to bed",
       "mean": "上床睡觉",
-      "allTesting": 25,
-      "successTesting": 25,
+      "allTesting": 26,
+      "successTesting": 26,
       "entryDate": "2022/2/10 8:55",
       "id": 106
     },
     {
       "word": "over",
       "mean": "结束",
-      "allTesting": 26,
-      "successTesting": 26,
+      "allTesting": 30,
+      "successTesting": 30,
       "entryDate": "2022/2/10 8:55",
       "id": 107
     },
@@ -867,8 +867,8 @@
     {
       "word": "o'clock",
       "mean": "表示整点",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/11 9:43",
       "id": 109
     },
@@ -883,119 +883,119 @@
     {
       "word": "thirty",
       "mean": "三十",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/2/11 9:45",
       "id": 111
     },
     {
       "word": "hurry up",
       "mean": "快点、",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/2/11 9:46",
       "id": 112
     },
     {
       "word": "come on",
       "mean": "快；加油",
-      "allTesting": 11,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/2/11 9:47",
       "id": 113
     },
     {
       "word": "just a minute",
       "mean": "稍等一会儿",
-      "allTesting": 6,
-      "successTesting": 4,
+      "allTesting": 8,
+      "successTesting": 6,
       "entryDate": "2022/2/11 9:48",
       "id": 114
     },
     {
       "word": "cold",
       "mean": "寒冷的",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/11 9:48",
       "id": 115
     },
     {
       "word": "cool",
       "mean": "凉的",
-      "allTesting": 17,
-      "successTesting": 14,
+      "allTesting": 21,
+      "successTesting": 17,
       "entryDate": "2022/2/11 9:49",
       "id": 116
     },
     {
       "word": "warm",
       "mean": "温暖的",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/11 9:49",
       "id": 117
     },
     {
       "word": "hot",
       "mean": "炎热的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/2/11 9:49",
       "id": 118
     },
     {
       "word": "sunny",
       "mean": "阳光充足的",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/11 9:50",
       "id": 119
     },
     {
       "word": "windy",
       "mean": "多风的",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 10,
       "entryDate": "2022/2/11 9:50",
       "id": 120
     },
     {
       "word": "cloudy",
       "mean": "多云的",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 9,
+      "successTesting": 8,
       "entryDate": "2022/2/11 9:51",
       "id": 121
     },
     {
       "word": "snowy",
       "mean": "下雪的",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 7,
       "entryDate": "2022/2/11 9:52",
       "id": 122
     },
     {
       "word": "rainy",
       "mean": "阴雨的",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/11 9:53",
       "id": 123
     },
     {
       "word": "outside",
       "mean": "在户外",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/12 8:58",
       "id": 124
     },
     {
       "word": "be careful",
       "mean": "小心",
-      "allTesting": 12,
+      "allTesting": 13,
       "successTesting": 10,
       "entryDate": "2022/2/12 8:59",
       "id": 125
@@ -1003,240 +1003,240 @@
     {
       "word": "weather",
       "mean": "天气",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/12 9:0",
       "id": 126
     },
     {
       "word": "new york",
       "mean": "纽约",
-      "allTesting": 17,
-      "successTesting": 16,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/12 9:2",
       "id": 127
     },
     {
       "word": "how about",
       "mean": "怎么样",
-      "allTesting": 26,
-      "successTesting": 26,
+      "allTesting": 30,
+      "successTesting": 30,
       "entryDate": "2022/2/12 9:3",
       "id": 128
     },
     {
       "word": "degree",
       "mean": "度数",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/12 9:3",
       "id": 129
     },
     {
       "word": "world",
       "mean": "世界",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/12 9:4",
       "id": 130
     },
     {
       "word": "london",
       "mean": "伦敦",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 10,
       "entryDate": "2022/2/12 9:5",
       "id": 131
     },
     {
       "word": "moscow",
       "mean": "莫斯科",
-      "allTesting": 12,
-      "successTesting": 10,
+      "allTesting": 20,
+      "successTesting": 14,
       "entryDate": "2022/2/12 9:5",
       "id": 132
     },
     {
       "word": "singapore",
       "mean": "新加坡",
-      "allTesting": 17,
-      "successTesting": 15,
+      "allTesting": 21,
+      "successTesting": 18,
       "entryDate": "2022/2/12 9:6",
       "id": 133
     },
     {
       "word": "sydney",
       "mean": "悉尼",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 10,
       "entryDate": "2022/2/12 9:7",
       "id": 134
     },
     {
       "word": "fly",
       "mean": "放",
-      "allTesting": 24,
-      "successTesting": 24,
+      "allTesting": 26,
+      "successTesting": 26,
       "entryDate": "2022/2/12 9:7",
       "id": 135
     },
     {
       "word": "love",
       "mean": "爱",
-      "allTesting": 16,
-      "successTesting": 15,
+      "allTesting": 20,
+      "successTesting": 19,
       "entryDate": "2022/2/12 9:7",
       "id": 136
     },
     {
       "word": "tomato",
       "mean": "西红柿",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 17,
+      "successTesting": 17,
       "entryDate": "2022/2/12 9:8",
       "id": 137
     },
     {
       "word": "potato",
       "mean": "土豆",
-      "allTesting": 18,
-      "successTesting": 18,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/12 9:18",
       "id": 138
     },
     {
       "word": "green beans",
       "mean": "豆角；四季豆",
-      "allTesting": 19,
-      "successTesting": 18,
+      "allTesting": 20,
+      "successTesting": 19,
       "entryDate": "2022/2/13 9:32",
       "id": 139
     },
     {
       "word": "carrot",
       "mean": "胡萝卜",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/2/13 9:33",
       "id": 140
     },
     {
       "word": "horse",
       "mean": "马",
-      "allTesting": 13,
-      "successTesting": 12,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/2/13 9:42",
       "id": 141
     },
     {
       "word": "cow",
       "mean": "奶牛",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/2/13 9:42",
       "id": 142
     },
     {
       "word": "sheep",
       "mean": "绵羊；羊",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/13 9:43",
       "id": 143
     },
     {
       "word": "hen",
       "mean": "母鸡",
-      "allTesting": 16,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/13 9:43",
       "id": 144
     },
     {
       "word": "these",
       "mean": "（this的复数形式）这些",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/13 9:44",
       "id": 145
     },
     {
       "word": "yum",
       "mean": "好吃",
-      "allTesting": 19,
-      "successTesting": 18,
+      "allTesting": 22,
+      "successTesting": 21,
       "entryDate": "2022/2/13 9:45",
       "id": 146
     },
     {
       "word": "animal",
       "mean": "动物",
-      "allTesting": 18,
-      "successTesting": 17,
+      "allTesting": 22,
+      "successTesting": 21,
       "entryDate": "2022/2/13 9:45",
       "id": 147
     },
     {
       "word": "those",
       "mean": "（that的复数形式）那些",
-      "allTesting": 21,
-      "successTesting": 19,
+      "allTesting": 22,
+      "successTesting": 20,
       "entryDate": "2022/2/13 9:46",
       "id": 148
     },
     {
       "word": "garden",
       "mean": "花园；菜园",
-      "allTesting": 9,
-      "successTesting": 8,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/2/13 9:47",
       "id": 149
     },
     {
       "word": "farm",
       "mean": "农场",
-      "allTesting": 8,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 7,
       "entryDate": "2022/2/13 9:48",
       "id": 150
     },
     {
       "word": "goat",
       "mean": "山羊",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/13 9:48",
       "id": 151
     },
     {
       "word": "eat",
       "mean": "吃",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/13 9:48",
       "id": 152
     },
     {
       "word": "clothes",
       "mean": "衣服；服装",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/13 9:49",
       "id": 153
     },
     {
       "word": "pants",
       "mean": "裤子",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/14 15:36",
       "id": 154
     },
     {
       "word": "dress",
       "mean": "连衣裙",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/14 15:37",
       "id": 155
     },
@@ -1251,104 +1251,104 @@
     {
       "word": "coat",
       "mean": "大衣",
-      "allTesting": 12,
-      "successTesting": 11,
+      "allTesting": 14,
+      "successTesting": 12,
       "entryDate": "2022/2/14 15:41",
       "id": 157
     },
     {
       "word": "sweater",
       "mean": "毛衣",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/14 15:42",
       "id": 158
     },
     {
       "word": "sock",
       "mean": "短袜",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/14 15:43",
       "id": 159
     },
     {
       "word": "shorts",
       "mean": "短裤",
-      "allTesting": 19,
-      "successTesting": 17,
+      "allTesting": 23,
+      "successTesting": 21,
       "entryDate": "2022/2/14 15:46",
       "id": 160
     },
     {
       "word": "jacket",
       "mean": "夹克衫",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/2/14 15:47",
       "id": 161
     },
     {
       "word": "shirt",
       "mean": "衬衫",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/14 15:48",
       "id": 162
     },
     {
       "word": "yours",
       "mean": "你的；你们的",
-      "allTesting": 8,
-      "successTesting": 6,
+      "allTesting": 12,
+      "successTesting": 9,
       "entryDate": "2022/2/14 15:55",
       "id": 163
     },
     {
       "word": "whose",
       "mean": "谁的",
-      "allTesting": 13,
-      "successTesting": 11,
+      "allTesting": 17,
+      "successTesting": 14,
       "entryDate": "2022/2/14 15:55",
       "id": 164
     },
     {
       "word": "mine",
       "mean": "我的",
-      "allTesting": 20,
-      "successTesting": 18,
+      "allTesting": 22,
+      "successTesting": 20,
       "entryDate": "2022/2/14 15:55",
       "id": 165
     },
     {
       "word": "pack",
       "mean": "收拾行李",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/14 15:56",
       "id": 166
     },
     {
       "word": "wait",
       "mean": "等待",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 17,
+      "successTesting": 17,
       "entryDate": "2022/2/14 15:56",
       "id": 167
     },
     {
       "word": "glove",
       "mean": "手套",
-      "allTesting": 20,
-      "successTesting": 19,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/14 15:57",
       "id": 168
     },
     {
       "word": "scarf",
       "mean": "围巾；披巾",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 4,
+      "successTesting": 3,
       "entryDate": "2022/2/15 10:48",
       "id": 169
     },
@@ -1363,8 +1363,8 @@
     {
       "word": "sunglasses",
       "mean": "太阳镜",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/2/15 10:50",
       "id": 171
     },
@@ -1379,40 +1379,40 @@
     {
       "word": "expensive",
       "mean": "昂贵的；花钱多的",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/15 10:52",
       "id": 173
     },
     {
       "word": "cheap",
       "mean": "便宜的；花钱少的",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/15 10:52",
       "id": 174
     },
     {
       "word": "nice",
       "mean": "好的",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 17,
       "entryDate": "2022/2/15 10:53",
       "id": 175
     },
     {
       "word": "try on",
       "mean": "试穿",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/15 10:53",
       "id": 176
     },
     {
       "word": "size",
       "mean": "尺码；号",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/2/15 10:53",
       "id": 177
     },
@@ -1427,232 +1427,232 @@
     {
       "word": "too",
       "mean": "太；过于",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/15 10:54",
       "id": 179
     },
     {
       "word": "just",
       "mean": "正好；恰好",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/15 10:54",
       "id": 180
     },
     {
       "word": "how much",
       "mean": "多少钱",
-      "allTesting": 19,
-      "successTesting": 16,
+      "allTesting": 22,
+      "successTesting": 19,
       "entryDate": "2022/2/15 10:55",
       "id": 181
     },
     {
       "word": "eighty",
       "mean": "八十",
-      "allTesting": 22,
-      "successTesting": 19,
+      "allTesting": 31,
+      "successTesting": 28,
       "entryDate": "2022/2/15 10:56",
       "id": 182
     },
     {
       "word": "dollar",
       "mean": "（美国，加拿大等国的货币单位）元",
-      "allTesting": 22,
-      "successTesting": 21,
+      "allTesting": 25,
+      "successTesting": 23,
       "entryDate": "2022/2/15 10:57",
       "id": 183
     },
     {
       "word": "sale",
       "mean": "特价销售；大减价",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 23,
+      "successTesting": 23,
       "entryDate": "2022/2/15 10:58",
       "id": 184
     },
     {
       "word": "more",
       "mean": "更多的",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 22,
+      "successTesting": 22,
       "entryDate": "2022/2/15 10:59",
       "id": 185
     },
     {
       "word": "us",
       "mean": "我们",
-      "allTesting": 29,
-      "successTesting": 29,
+      "allTesting": 31,
+      "successTesting": 31,
       "entryDate": "2022/2/15 10:59",
       "id": 186
     },
     {
       "word": "ruler",
       "mean": "尺子",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/16 9:37",
       "id": 187
     },
     {
       "word": "pencil",
       "mean": "铅笔",
-      "allTesting": 18,
-      "successTesting": 17,
+      "allTesting": 20,
+      "successTesting": 19,
       "entryDate": "2022/2/16 9:50",
       "id": 188
     },
     {
       "word": "eraser",
       "mean": "橡皮",
-      "allTesting": 25,
-      "successTesting": 23,
+      "allTesting": 30,
+      "successTesting": 27,
       "entryDate": "2022/2/16 9:50",
       "id": 189
     },
     {
       "word": "crayon",
       "mean": "蜡笔",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/16 10:4",
       "id": 190
     },
     {
       "word": "bag",
       "mean": "包",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/16 10:4",
       "id": 191
     },
     {
       "word": "pen",
       "mean": "钢笔",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 20,
+      "successTesting": 20,
       "entryDate": "2022/2/16 10:4",
       "id": 192
     },
     {
       "word": "pencil box",
       "mean": "铅笔盒",
-      "allTesting": 20,
-      "successTesting": 19,
+      "allTesting": 27,
+      "successTesting": 25,
       "entryDate": "2022/2/16 10:5",
       "id": 193
     },
     {
       "word": "book",
       "mean": "书",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/16 15:1",
       "id": 194
     },
     {
       "word": "no",
       "mean": "不",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 17,
+      "successTesting": 17,
       "entryDate": "2022/2/16 15:2",
       "id": 195
     },
     {
       "word": "your",
       "mean": "你的；你们的",
-      "allTesting": 11,
-      "successTesting": 10,
+      "allTesting": 17,
+      "successTesting": 15,
       "entryDate": "2022/2/16 15:2",
       "id": 196
     },
     {
       "word": "red",
       "mean": "红色的",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/16 15:2",
       "id": 197
     },
     {
       "word": "green",
       "mean": "绿色的",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/16 15:2",
       "id": 198
     },
     {
       "word": "yellow",
       "mean": "黄色的",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/16 15:3",
       "id": 199
     },
     {
       "word": "blue",
       "mean": "蓝色的",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 16,
+      "successTesting": 12,
       "entryDate": "2022/2/16 15:3",
       "id": 200
     },
     {
       "word": "black",
       "mean": "黑色的",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/16 15:4",
       "id": 201
     },
     {
       "word": "brown",
       "mean": "棕色的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/17 9:43",
       "id": 202
     },
     {
       "word": "white",
       "mean": "白色的",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/17 9:44",
       "id": 203
     },
     {
       "word": "orange",
       "mean": "橙色的",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 15,
+      "successTesting": 13,
       "entryDate": "2022/2/17 9:44",
       "id": 204
     },
     {
       "word": "ok",
       "mean": "好；行",
-      "allTesting": 5,
-      "successTesting": 3,
+      "allTesting": 6,
+      "successTesting": 4,
       "entryDate": "2022/2/17 9:45",
       "id": 205
     },
     {
       "word": "mum",
       "mean": "妈妈",
-      "allTesting": 3,
-      "successTesting": 2,
+      "allTesting": 5,
+      "successTesting": 3,
       "entryDate": "2022/2/17 9:45",
       "id": 206
     },
     {
       "word": "face",
       "mean": "脸",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/17 9:45",
       "id": 207
     },
@@ -1667,127 +1667,127 @@
     {
       "word": "eye",
       "mean": "眼睛",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 3,
+      "successTesting": 2,
       "entryDate": "2022/2/17 9:46",
       "id": 209
     },
     {
       "word": "nose",
       "mean": "鼻子",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/17 9:46",
       "id": 210
     },
     {
       "word": "mouth",
       "mean": "嘴",
-      "allTesting": 7,
-      "successTesting": 5,
+      "allTesting": 12,
+      "successTesting": 8,
       "entryDate": "2022/2/17 9:46",
       "id": 211
     },
     {
       "word": "arm",
       "mean": "胳膊",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/17 9:46",
       "id": 212
     },
     {
       "word": "hand",
       "mean": "手",
-      "allTesting": 4,
-      "successTesting": 3,
+      "allTesting": 5,
+      "successTesting": 4,
       "entryDate": "2022/2/17 9:47",
       "id": 213
     },
     {
       "word": "head",
       "mean": "头",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/17 9:47",
       "id": 214
     },
     {
       "word": "body",
       "mean": "身体",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 7,
+      "successTesting": 6,
       "entryDate": "2022/2/17 9:47",
       "id": 215
     },
     {
       "word": "leg",
       "mean": "腿",
-      "allTesting": 32,
-      "successTesting": 32,
+      "allTesting": 36,
+      "successTesting": 36,
       "entryDate": "2022/2/17 9:47",
       "id": 216
     },
     {
       "word": "foot",
       "mean": "脚",
-      "allTesting": 25,
-      "successTesting": 23,
+      "allTesting": 28,
+      "successTesting": 26,
       "entryDate": "2022/2/18 18:32",
       "id": 217
     },
     {
       "word": "school",
       "mean": "学校",
-      "allTesting": 24,
-      "successTesting": 24,
+      "allTesting": 25,
+      "successTesting": 25,
       "entryDate": "2022/2/18 18:32",
       "id": 218
     },
     {
       "word": "duck",
       "mean": "鸭子",
-      "allTesting": 28,
-      "successTesting": 28,
+      "allTesting": 29,
+      "successTesting": 29,
       "entryDate": "2022/2/18 18:37",
       "id": 219
     },
     {
       "word": "pig",
       "mean": "猪",
-      "allTesting": 25,
-      "successTesting": 25,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/18 18:38",
       "id": 220
     },
     {
       "word": "cat",
       "mean": "猫",
-      "allTesting": 32,
-      "successTesting": 32,
+      "allTesting": 34,
+      "successTesting": 34,
       "entryDate": "2022/2/18 18:38",
       "id": 221
     },
     {
       "word": "bear",
       "mean": "熊",
-      "allTesting": 24,
-      "successTesting": 24,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/18 18:38",
       "id": 222
     },
     {
       "word": "dog",
       "mean": "狗",
-      "allTesting": 35,
-      "successTesting": 35,
+      "allTesting": 40,
+      "successTesting": 40,
       "entryDate": "2022/2/18 18:38",
       "id": 223
     },
     {
       "word": "elephant",
       "mean": "大象",
-      "allTesting": 23,
+      "allTesting": 24,
       "successTesting": 23,
       "entryDate": "2022/2/18 18:39",
       "id": 224
@@ -1795,16 +1795,16 @@
     {
       "word": "monkey",
       "mean": "猴子",
-      "allTesting": 26,
-      "successTesting": 26,
+      "allTesting": 27,
+      "successTesting": 27,
       "entryDate": "2022/2/18 18:39",
       "id": 225
     },
     {
       "word": "bird",
       "mean": "鸟",
-      "allTesting": 27,
-      "successTesting": 27,
+      "allTesting": 33,
+      "successTesting": 32,
       "entryDate": "2022/2/18 18:39",
       "id": 226
     },
@@ -1819,104 +1819,104 @@
     {
       "word": "panda",
       "mean": "熊猫",
-      "allTesting": 41,
-      "successTesting": 39,
+      "allTesting": 44,
+      "successTesting": 42,
       "entryDate": "2022/2/18 18:40",
       "id": 228
     },
     {
       "word": "zoo",
       "mean": "动物园",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/18 18:40",
       "id": 229
     },
     {
       "word": "funny",
       "mean": "滑稽的",
-      "allTesting": 27,
-      "successTesting": 27,
+      "allTesting": 28,
+      "successTesting": 28,
       "entryDate": "2022/2/18 18:41",
       "id": 230
     },
     {
       "word": "bread",
       "mean": "面包",
-      "allTesting": 30,
-      "successTesting": 30,
+      "allTesting": 31,
+      "successTesting": 31,
       "entryDate": "2022/2/18 18:41",
       "id": 231
     },
     {
       "word": "juice",
       "mean": "果汁",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/19 9:14",
       "id": 232
     },
     {
       "word": "egg",
       "mean": "鸡蛋",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/19 9:15",
       "id": 233
     },
     {
       "word": "milk",
       "mean": "牛奶",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 14,
+      "successTesting": 12,
       "entryDate": "2022/2/19 9:15",
       "id": 234
     },
     {
       "word": "water",
       "mean": "水",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/19 9:15",
       "id": 235
     },
     {
       "word": "cake",
       "mean": "蛋糕",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/19 9:15",
       "id": 236
     },
     {
       "word": "fish",
       "mean": "鱼",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/19 9:16",
       "id": 237
     },
     {
       "word": "rice",
       "mean": "米饭",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/19 9:16",
       "id": 238
     },
     {
       "word": "one",
       "mean": "一",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/19 9:16",
       "id": 239
     },
     {
       "word": "two",
       "mean": "二",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/19 9:16",
       "id": 240
     },
@@ -1931,176 +1931,176 @@
     {
       "word": "four",
       "mean": "四",
-      "allTesting": 7,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 8,
       "entryDate": "2022/2/19 9:16",
       "id": 242
     },
     {
       "word": "five",
       "mean": "五",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/2/19 9:17",
       "id": 243
     },
     {
       "word": "six",
       "mean": "六",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/19 9:17",
       "id": 244
     },
     {
       "word": "seven",
       "mean": "七",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/19 9:17",
       "id": 245
     },
     {
       "word": "eight",
       "mean": "八",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/19 9:17",
       "id": 246
     },
     {
       "word": "nine",
       "mean": "九",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/2/20 9:46",
       "id": 247
     },
     {
       "word": "ten",
       "mean": "十",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/2/20 9:46",
       "id": 248
     },
     {
       "word": "brother",
       "mean": "兄；弟",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/20 9:47",
       "id": 249
     },
     {
       "word": "plate",
       "mean": "盘子",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 3,
+      "successTesting": 2,
       "entryDate": "2022/2/20 9:48",
       "id": 250
     },
     {
       "word": "UK",
       "mean": "英国（简写）",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/20 9:51",
       "id": 251
     },
     {
       "word": "Canada",
       "mean": "加拿大",
-      "allTesting": 3,
-      "successTesting": 2,
+      "allTesting": 7,
+      "successTesting": 4,
       "entryDate": "2022/2/20 9:51",
       "id": 252
     },
     {
       "word": "USA",
       "mean": "美国",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/20 9:56",
       "id": 253
     },
     {
       "word": "China",
       "mean": "中国",
-      "allTesting": 9,
-      "successTesting": 5,
+      "allTesting": 12,
+      "successTesting": 8,
       "entryDate": "2022/2/20 9:57",
       "id": 254
     },
     {
       "word": "she",
       "mean": "她",
-      "allTesting": 8,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 9,
       "entryDate": "2022/2/20 9:57",
       "id": 255
     },
     {
       "word": "student",
       "mean": "学生",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/2/20 9:58",
       "id": 256
     },
     {
       "word": "pupil",
       "mean": "学生；（尤指）小学生",
-      "allTesting": 2,
-      "successTesting": 1,
+      "allTesting": 3,
+      "successTesting": 2,
       "entryDate": "2022/2/20 9:58",
       "id": 257
     },
     {
       "word": "he",
       "mean": "他",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 4,
+      "successTesting": 3,
       "entryDate": "2022/2/20 9:59",
       "id": 258
     },
     {
       "word": "teacher",
       "mean": "教师",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/20 9:59",
       "id": 259
     },
     {
       "word": "boy",
       "mean": "男孩",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/2/20 10:0",
       "id": 260
     },
     {
       "word": "and",
       "mean": "和",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/20 10:0",
       "id": 261
     },
     {
       "word": "girl",
       "mean": "女孩",
-      "allTesting": 13,
-      "successTesting": 11,
+      "allTesting": 15,
+      "successTesting": 13,
       "entryDate": "2022/2/21 18:35",
       "id": 262
     },
     {
       "word": "new",
       "mean": "新的",
-      "allTesting": 11,
-      "successTesting": 10,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/2/21 18:35",
       "id": 263
     },
@@ -2115,127 +2115,127 @@
     {
       "word": "today",
       "mean": "今天",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/2/21 18:36",
       "id": 265
     },
     {
       "word": "father",
       "mean": "父亲；爸爸",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/21 18:39",
       "id": 266
     },
     {
       "word": "dad",
       "mean": "（口语）爸爸；爹爹",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/21 18:40",
       "id": 267
     },
     {
       "word": "man",
       "mean": "男人",
-      "allTesting": 13,
-      "successTesting": 12,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/21 18:40",
       "id": 268
     },
     {
       "word": "woman",
       "mean": "女人",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/21 18:41",
       "id": 269
     },
     {
       "word": "mother",
       "mean": "母亲；妈妈",
-      "allTesting": 13,
-      "successTesting": 12,
+      "allTesting": 15,
+      "successTesting": 14,
       "entryDate": "2022/2/21 18:41",
       "id": 270
     },
     {
       "word": "sister",
       "mean": "姐；妹",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/21 18:41",
       "id": 271
     },
     {
       "word": "grandmother",
       "mean": "外婆；奶奶",
-      "allTesting": 9,
-      "successTesting": 7,
+      "allTesting": 11,
+      "successTesting": 9,
       "entryDate": "2022/2/21 18:43",
       "id": 272
     },
     {
       "word": "grandma",
       "mean": "（口语）外婆；奶奶",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/21 18:44",
       "id": 273
     },
     {
       "word": "grandfather",
       "mean": "外公；爷爷",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/21 18:45",
       "id": 274
     },
     {
       "word": "grandpa",
       "mean": "（口语）外公；爷爷",
-      "allTesting": 14,
-      "successTesting": 13,
+      "allTesting": 18,
+      "successTesting": 17,
       "entryDate": "2022/2/21 18:45",
       "id": 275
     },
     {
       "word": "family",
       "mean": "家庭",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/2/21 18:46",
       "id": 276
     },
     {
       "word": "thin",
       "mean": "瘦的",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/2/21 19:3",
       "id": 277
     },
     {
       "word": "fat",
       "mean": "瘦的",
-      "allTesting": 6,
-      "successTesting": 1,
+      "allTesting": 10,
+      "successTesting": 4,
       "entryDate": "2022/2/22 18:9",
       "id": 278
     },
     {
       "word": "tall",
       "mean": "高的",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/22 18:11",
       "id": 279
     },
     {
       "word": "short",
       "mean": "矮的；短的",
-      "allTesting": 2,
+      "allTesting": 4,
       "successTesting": 2,
       "entryDate": "2022/2/22 18:11",
       "id": 280
@@ -2243,24 +2243,24 @@
     {
       "word": "long",
       "mean": "长的",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 3,
+      "successTesting": 3,
       "entryDate": "2022/2/22 18:11",
       "id": 281
     },
     {
       "word": "small",
       "mean": "小的",
-      "allTesting": 1,
-      "successTesting": 0,
+      "allTesting": 6,
+      "successTesting": 4,
       "entryDate": "2022/2/22 18:12",
       "id": 282
     },
     {
       "word": "big",
       "mean": "大的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/2/22 18:12",
       "id": 283
     },
@@ -2275,80 +2275,80 @@
     {
       "word": "so",
       "mean": "这么；你们",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/22 18:13",
       "id": 285
     },
     {
       "word": "children",
       "mean": "（child的复数）儿童",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/22 18:13",
       "id": 286
     },
     {
       "word": "tail",
       "mean": "尾巴",
-      "allTesting": 20,
-      "successTesting": 20,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/22 18:14",
       "id": 287
     },
     {
       "word": "on",
       "mean": "在上面",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/22 18:14",
       "id": 288
     },
     {
       "word": "in",
       "mean": "在里面",
-      "allTesting": 14,
-      "successTesting": 13,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/22 18:15",
       "id": 289
     },
     {
       "word": "under",
       "mean": "在下面",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/22 18:16",
       "id": 290
     },
     {
       "word": "chair",
       "mean": "椅子",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/22 18:17",
       "id": 291
     },
     {
       "word": "desk",
       "mean": "书桌",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/22 18:17",
       "id": 292
     },
     {
       "word": "cap",
       "mean": "帽子",
-      "allTesting": 17,
-      "successTesting": 14,
+      "allTesting": 22,
+      "successTesting": 17,
       "entryDate": "2022/2/23 17:45",
       "id": 293
     },
     {
       "word": "ball",
       "mean": "球",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/2/23 17:45",
       "id": 294
     },
@@ -2363,55 +2363,55 @@
     {
       "word": "boat",
       "mean": "小船",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/23 17:46",
       "id": 296
     },
     {
       "word": "map",
       "mean": "地图",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/23 17:46",
       "id": 297
     },
     {
       "word": "box",
       "mean": "盒；箱",
-      "allTesting": 22,
-      "successTesting": 20,
+      "allTesting": 25,
+      "successTesting": 23,
       "entryDate": "2022/2/23 17:47",
       "id": 298
     },
     {
       "word": "pear",
       "mean": "梨",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 15,
+      "successTesting": 12,
       "entryDate": "2022/2/23 17:47",
       "id": 299
     },
     {
       "word": "apple",
       "mean": "苹果",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 21,
+      "successTesting": 21,
       "entryDate": "2022/2/23 17:48",
       "id": 300
     },
     {
       "word": "banana",
       "mean": "香蕉",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 12,
+      "successTesting": 10,
       "entryDate": "2022/2/23 17:49",
       "id": 301
     },
     {
       "word": "watermelon",
       "mean": "西瓜",
-      "allTesting": 4,
+      "allTesting": 5,
       "successTesting": 4,
       "entryDate": "2022/2/23 17:49",
       "id": 302
@@ -2435,104 +2435,104 @@
     {
       "word": "buy",
       "mean": "买",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/23 17:49",
       "id": 305
     },
     {
       "word": "fruit",
       "mean": "水果",
-      "allTesting": 11,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/2/23 17:50",
       "id": 306
     },
     {
       "word": "eleven",
       "mean": "十一",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/23 18:21",
       "id": 307
     },
     {
       "word": "twelve",
       "mean": "十二",
-      "allTesting": 18,
-      "successTesting": 15,
+      "allTesting": 21,
+      "successTesting": 16,
       "entryDate": "2022/2/24 18:26",
       "id": 308
     },
     {
       "word": "thirteen",
       "mean": "十三",
-      "allTesting": 23,
-      "successTesting": 23,
+      "allTesting": 28,
+      "successTesting": 27,
       "entryDate": "2022/2/24 18:26",
       "id": 309
     },
     {
       "word": "fourteen",
       "mean": "十四",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/24 18:26",
       "id": 310
     },
     {
       "word": "fifteen",
       "mean": "十五",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/2/24 18:27",
       "id": 311
     },
     {
       "word": "sixteen",
       "mean": "十六",
-      "allTesting": 16,
-      "successTesting": 16,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/2/24 18:27",
       "id": 312
     },
     {
       "word": "seventeen",
       "mean": "十七",
-      "allTesting": 18,
-      "successTesting": 17,
+      "allTesting": 23,
+      "successTesting": 22,
       "entryDate": "2022/2/24 18:27",
       "id": 313
     },
     {
       "word": "eighteen",
       "mean": "十八",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/2/24 18:28",
       "id": 314
     },
     {
       "word": "nineteen",
       "mean": "十九",
-      "allTesting": 19,
-      "successTesting": 19,
+      "allTesting": 23,
+      "successTesting": 23,
       "entryDate": "2022/2/24 18:28",
       "id": 315
     },
     {
       "word": "twenty",
       "mean": "二十",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 23,
+      "successTesting": 21,
       "entryDate": "2022/2/24 18:28",
       "id": 316
     },
     {
       "word": "kite",
       "mean": "风筝",
-      "allTesting": 13,
-      "successTesting": 12,
+      "allTesting": 15,
+      "successTesting": 14,
       "entryDate": "2022/2/24 18:29",
       "id": 317
     },
@@ -2547,40 +2547,40 @@
     {
       "word": "old",
       "mean": "年老的",
-      "allTesting": 18,
-      "successTesting": 17,
+      "allTesting": 22,
+      "successTesting": 20,
       "entryDate": "2022/2/24 18:33",
       "id": 319
     },
     {
       "word": "young",
       "mean": "年轻的；岁数不大的",
-      "allTesting": 17,
-      "successTesting": 16,
+      "allTesting": 21,
+      "successTesting": 20,
       "entryDate": "2022/2/24 18:33",
       "id": 320
     },
     {
       "word": "kind",
       "mean": "体贴的；慈祥的；宽容的",
-      "allTesting": 11,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/2/24 18:34",
       "id": 321
     },
     {
       "word": "strict",
       "mean": "要求严格的；严厉的",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/24 18:35",
       "id": 322
     },
     {
       "word": "polite",
       "mean": "有礼貌的；客气的",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/26 8:50",
       "id": 323
     },
@@ -2595,32 +2595,32 @@
     {
       "word": "helpful",
       "mean": "乐于助人的；有用的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/26 8:51",
       "id": 325
     },
     {
       "word": "clever",
       "mean": "聪明的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/2/26 8:52",
       "id": 326
     },
     {
       "word": "shy",
       "mean": "胆怯的；怕生的",
-      "allTesting": 7,
-      "successTesting": 4,
+      "allTesting": 15,
+      "successTesting": 9,
       "entryDate": "2022/2/26 8:53",
       "id": 327
     },
     {
       "word": "know",
       "mean": "知道；了解",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 2,
+      "successTesting": 2,
       "entryDate": "2022/2/26 8:53",
       "id": 328
     },
@@ -2635,16 +2635,16 @@
     {
       "word": "Ms",
       "mean": "女士",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 9,
+      "successTesting": 7,
       "entryDate": "2022/2/26 8:55",
       "id": 330
     },
     {
       "word": "will",
       "mean": "将要",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/26 8:55",
       "id": 331
     },
@@ -2659,24 +2659,24 @@
     {
       "word": "robot",
       "mean": "机器人",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/2/26 8:56",
       "id": 333
     },
     {
       "word": "him",
       "mean": "（用于宾语或表语）他",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/2/26 8:56",
       "id": 334
     },
     {
       "word": "speak",
       "mean": "会说；会讲",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/2/26 8:57",
       "id": 335
     },
@@ -2691,151 +2691,151 @@
     {
       "word": "Monday",
       "mean": "星期一",
-      "allTesting": 5,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 5,
       "entryDate": "2022/2/26 8:58",
       "id": 337
     },
     {
       "word": "Tuesday",
       "mean": "星期二",
-      "allTesting": 8,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 9,
       "entryDate": "2022/2/27 9:15",
       "id": 338
     },
     {
       "word": "Wednesday",
       "mean": "星期三",
-      "allTesting": 9,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/2/27 9:15",
       "id": 339
     },
     {
       "word": "Thursday",
       "mean": "星期四",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/27 9:17",
       "id": 340
     },
     {
       "word": "Friday",
       "mean": "星期五",
-      "allTesting": 14,
-      "successTesting": 11,
+      "allTesting": 16,
+      "successTesting": 13,
       "entryDate": "2022/2/27 9:19",
       "id": 341
     },
     {
       "word": "Saturday",
       "mean": "星期六",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 8,
+      "successTesting": 7,
       "entryDate": "2022/2/27 9:21",
       "id": 342
     },
     {
       "word": "Sunday",
       "mean": "星期日",
-      "allTesting": 12,
-      "successTesting": 8,
+      "allTesting": 14,
+      "successTesting": 10,
       "entryDate": "2022/2/27 9:22",
       "id": 343
     },
     {
       "word": "weekend",
       "mean": "周末",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/27 9:22",
       "id": 344
     },
     {
       "word": "wash my clothes",
       "mean": "洗我的衣服",
-      "allTesting": 9,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/2/27 9:23",
       "id": 345
     },
     {
       "word": "watch TV",
       "mean": "看电视",
-      "allTesting": 9,
-      "successTesting": 8,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/2/27 9:24",
       "id": 346
     },
     {
       "word": "do homework",
       "mean": "做作业",
-      "allTesting": 8,
-      "successTesting": 7,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/2/27 9:24",
       "id": 347
     },
     {
       "word": "read books",
       "mean": "看书",
-      "allTesting": 13,
-      "successTesting": 12,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/27 9:25",
       "id": 348
     },
     {
       "word": "play football",
       "mean": "踢足球",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 16,
+      "successTesting": 15,
       "entryDate": "2022/2/27 9:25",
       "id": 349
     },
     {
       "word": "cooking",
       "mean": "烹饪；烹调",
-      "allTesting": 6,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 6,
       "entryDate": "2022/2/27 9:26",
       "id": 350
     },
     {
       "word": "often",
       "mean": "经常；常常",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 14,
+      "successTesting": 14,
       "entryDate": "2022/2/27 9:26",
       "id": 351
     },
     {
       "word": "park",
       "mean": "公园、",
-      "allTesting": 13,
-      "successTesting": 13,
+      "allTesting": 15,
+      "successTesting": 15,
       "entryDate": "2022/2/27 9:26",
       "id": 352
     },
     {
       "word": "tired",
       "mean": "疲倦的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 8,
+      "successTesting": 7,
       "entryDate": "2022/2/28 18:15",
       "id": 353
     },
     {
       "word": "play sport",
       "mean": "做运动",
-      "allTesting": 4,
-      "successTesting": 2,
+      "allTesting": 8,
+      "successTesting": 5,
       "entryDate": "2022/2/28 18:16",
       "id": 354
     },
     {
       "word": "should",
       "mean": "应该；应当",
-      "allTesting": 4,
+      "allTesting": 5,
       "successTesting": 3,
       "entryDate": "2022/2/28 18:16",
       "id": 355
@@ -2843,199 +2843,199 @@
     {
       "word": "every",
       "mean": "每一个；每个",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 1,
+      "successTesting": 1,
       "entryDate": "2022/2/28 18:16",
       "id": 356
     },
     {
       "word": "day",
       "mean": "一天；一日",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/2/28 18:17",
       "id": 357
     },
     {
       "word": "schedule",
       "mean": "工作计划；日程安排",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/2/28 18:17",
       "id": 358
     },
     {
       "word": "sandwich",
       "mean": "三明治",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/28 18:18",
       "id": 359
     },
     {
       "word": "salad",
       "mean": "蔬菜沙拉；混合沙拉",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 9,
+      "successTesting": 8,
       "entryDate": "2022/2/28 18:22",
       "id": 360
     },
     {
       "word": "hamburger",
       "mean": "汉堡",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/28 18:22",
       "id": 361
     },
     {
       "word": "ice cream",
       "mean": "冰淇淋",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 6,
       "entryDate": "2022/2/28 18:23",
       "id": 362
     },
     {
       "word": "tea",
       "mean": "茶；茶水",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 2,
+      "successTesting": 2,
       "entryDate": "2022/2/28 18:23",
       "id": 363
     },
     {
       "word": "fresh",
       "mean": "新鲜的；刚摘的",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/2/28 18:24",
       "id": 364
     },
     {
       "word": "healthy",
       "mean": "健康的",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/2/28 18:25",
       "id": 365
     },
     {
       "word": "delicious",
       "mean": "美味的；可口的",
-      "allTesting": 15,
-      "successTesting": 13,
+      "allTesting": 20,
+      "successTesting": 18,
       "entryDate": "2022/2/28 18:26",
       "id": 366
     },
     {
       "word": "drink",
       "mean": "喝；饮",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/1 20:19",
       "id": 367
     },
     {
       "word": "thirst",
       "mean": "渴的；口渴的",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/1 20:20",
       "id": 368
     },
     {
       "word": "favourite",
       "mean": "特别喜爱的",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/1 20:21",
       "id": 369
     },
     {
       "word": "food",
       "mean": "食物",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/3/1 20:22",
       "id": 370
     },
     {
       "word": "dear",
       "mean": "亲爱的",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/1 20:22",
       "id": 371
     },
     {
       "word": "onion",
       "mean": "洋葱；葱头",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/1 20:24",
       "id": 372
     },
     {
       "word": "sing english songs",
       "mean": "唱英文歌曲",
-      "allTesting": 11,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 11,
       "entryDate": "2022/3/1 20:24",
       "id": 373
     },
     {
       "word": "play the pipa",
       "mean": "弹琵琶",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/1 20:25",
       "id": 374
     },
     {
       "word": "do kung fu",
       "mean": "练武术",
-      "allTesting": 10,
-      "successTesting": 8,
+      "allTesting": 15,
+      "successTesting": 10,
       "entryDate": "2022/3/1 20:26",
       "id": 375
     },
     {
       "word": "dance",
       "mean": "跳舞",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/1 20:26",
       "id": 376
     },
     {
       "word": "draw cartoons",
       "mean": "画漫画",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 9,
+      "successTesting": 8,
       "entryDate": "2022/3/1 20:27",
       "id": 377
     },
     {
       "word": "swim",
       "mean": "游泳",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/1 20:27",
       "id": 378
     },
     {
       "word": "play basketball",
       "mean": "打篮球",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/1 20:28",
       "id": 379
     },
     {
       "word": "play pingpong",
       "mean": "打乒乓球",
-      "allTesting": 12,
+      "allTesting": 13,
       "successTesting": 12,
       "entryDate": "2022/3/1 20:29",
       "id": 380
@@ -3043,128 +3043,128 @@
     {
       "word": "speak english",
       "mean": "说英语",
-      "allTesting": 20,
-      "successTesting": 19,
+      "allTesting": 24,
+      "successTesting": 23,
       "entryDate": "2022/3/1 20:29",
       "id": 381
     },
     {
       "word": "party",
       "mean": "聚会；派对",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/2 18:46",
       "id": 382
     },
     {
       "word": "next",
       "mean": "下一个的；紧挨着的",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 17,
       "entryDate": "2022/3/2 18:47",
       "id": 383
     },
     {
       "word": "wonderful",
       "mean": "太棒了；极好的",
-      "allTesting": 11,
-      "successTesting": 11,
+      "allTesting": 16,
+      "successTesting": 16,
       "entryDate": "2022/3/2 18:48",
       "id": 384
     },
     {
       "word": "learn",
       "mean": "学习",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/2 18:50",
       "id": 385
     },
     {
       "word": "any",
       "mean": "任何的；",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/2 18:50",
       "id": 386
     },
     {
       "word": "problem",
       "mean": "问题",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/2 18:50",
       "id": 387
     },
     {
       "word": "want",
       "mean": "想要",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/2 18:51",
       "id": 388
     },
     {
       "word": "send",
       "mean": "邮寄；发送",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/2 18:51",
       "id": 389
     },
     {
       "word": "email",
       "mean": "电子邮件",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/2 18:51",
       "id": 390
     },
     {
       "word": "clock",
       "mean": "时钟；钟",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/2 18:53",
       "id": 391
     },
     {
       "word": "plant",
       "mean": "植物",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/2 18:54",
       "id": 392
     },
     {
       "word": "water bottle",
       "mean": "水瓶",
-      "allTesting": 11,
-      "successTesting": 9,
+      "allTesting": 15,
+      "successTesting": 13,
       "entryDate": "2022/3/2 18:55",
       "id": 393
     },
     {
       "word": "bike",
       "mean": "自行车",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/2 18:57",
       "id": 394
     },
     {
       "word": "photo",
       "mean": "照片",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/2 18:58",
       "id": 395
     },
     {
       "word": "in front of",
       "mean": "在前面",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/2 18:58",
       "id": 396
     },
@@ -3195,23 +3195,23 @@
     {
       "word": "behind",
       "mean": "在后面",
-      "allTesting": 3,
-      "successTesting": 2,
+      "allTesting": 12,
+      "successTesting": 8,
       "entryDate": "2022/3/3 19:18",
       "id": 400
     },
     {
       "word": "grandparents",
       "mean": "祖父；祖母",
-      "allTesting": 2,
-      "successTesting": 0,
+      "allTesting": 5,
+      "successTesting": 2,
       "entryDate": "2022/3/3 19:19",
       "id": 401
     },
     {
       "word": "their",
       "mean": "他们的；她们的；它们的",
-      "allTesting": 1,
+      "allTesting": 2,
       "successTesting": 0,
       "entryDate": "2022/3/3 19:19",
       "id": 402
@@ -3219,56 +3219,56 @@
     {
       "word": "house",
       "mean": "房屋；房子",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 2,
+      "successTesting": 2,
       "entryDate": "2022/3/3 19:21",
       "id": 403
     },
     {
       "word": "lots of",
       "mean": "大量；许多",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/3 19:22",
       "id": 404
     },
     {
       "word": "flower",
       "mean": "花；花朵",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/3 19:22",
       "id": 405
     },
     {
       "word": "move",
       "mean": "搬家",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/3 19:22",
       "id": 406
     },
     {
       "word": "dirty",
       "mean": "肮脏的",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/3 19:23",
       "id": 407
     },
     {
       "word": "everywhere",
       "mean": "处处；到处",
-      "allTesting": 17,
-      "successTesting": 17,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/3/3 19:23",
       "id": 408
     },
     {
       "word": "mouse",
       "mean": "老鼠",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/3 19:23",
       "id": 409
     },
@@ -3283,88 +3283,88 @@
     {
       "word": "nature",
       "mean": "自然界；大自然",
-      "allTesting": 15,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/3/3 19:24",
       "id": 411
     },
     {
       "word": "forest",
       "mean": "森林；林区",
-      "allTesting": 15,
-      "successTesting": 15,
+      "allTesting": 18,
+      "successTesting": 18,
       "entryDate": "2022/3/4 18:28",
       "id": 412
     },
     {
       "word": "river",
       "mean": "河；江",
-      "allTesting": 15,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/3/4 18:29",
       "id": 413
     },
     {
       "word": "lake",
       "mean": "湖泊；湖",
-      "allTesting": 18,
-      "successTesting": 18,
+      "allTesting": 22,
+      "successTesting": 22,
       "entryDate": "2022/3/4 18:32",
       "id": 414
     },
     {
       "word": "mountain",
       "mean": "高山；山岳",
-      "allTesting": 16,
-      "successTesting": 14,
+      "allTesting": 19,
+      "successTesting": 16,
       "entryDate": "2022/3/4 18:33",
       "id": 415
     },
     {
       "word": "hill",
       "mean": "山丘",
-      "allTesting": 12,
-      "successTesting": 11,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/3/4 18:34",
       "id": 416
     },
     {
       "word": "tree",
       "mean": "树；树木；乔木",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/4 18:34",
       "id": 417
     },
     {
       "word": "bridge",
       "mean": "桥",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 17,
+      "successTesting": 16,
       "entryDate": "2022/3/4 18:35",
       "id": 418
     },
     {
       "word": "building",
       "mean": "建筑物；房子；楼房",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/3/4 18:36",
       "id": 419
     },
     {
       "word": "village",
       "mean": "村庄；村镇",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 19,
+      "successTesting": 19,
       "entryDate": "2022/3/4 18:38",
       "id": 420
     },
     {
       "word": "go boating",
       "mean": "去划船",
-      "allTesting": 5,
-      "successTesting": 3,
+      "allTesting": 10,
+      "successTesting": 8,
       "entryDate": "2022/3/4 18:42",
       "id": 421
     },
@@ -3387,40 +3387,40 @@
     {
       "word": "eat breakfast",
       "mean": "吃早饭",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 11,
+      "successTesting": 9,
       "entryDate": "2022/3/4 18:51",
       "id": 424
     },
     {
       "word": "play sports",
       "mean": "进行体育运动",
-      "allTesting": 10,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 7,
       "entryDate": "2022/3/4 18:55",
       "id": 425
     },
     {
       "word": "clean my room",
       "mean": "打扫我的房间",
-      "allTesting": 13,
-      "successTesting": 11,
+      "allTesting": 16,
+      "successTesting": 14,
       "entryDate": "2022/3/4 18:57",
       "id": 426
     },
     {
       "word": "go for a walk",
       "mean": "散步",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 4,
+      "successTesting": 3,
       "entryDate": "2022/3/5 9:0",
       "id": 427
     },
     {
       "word": "go shopping",
       "mean": "去买东西；购物",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 5,
+      "successTesting": 4,
       "entryDate": "2022/3/5 9:1",
       "id": 428
     },
@@ -3435,15 +3435,15 @@
     {
       "word": "when",
       "mean": "什么时候；何时",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 2,
+      "successTesting": 2,
       "entryDate": "2022/3/5 9:4",
       "id": 430
     },
     {
       "word": "after",
       "mean": "在（时间）后",
-      "allTesting": 0,
+      "allTesting": 1,
       "successTesting": 0,
       "entryDate": "2022/3/5 9:5",
       "id": 431
@@ -3459,8 +3459,8 @@
     {
       "word": "usually",
       "mean": "通常的；惯常的",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/5 9:5",
       "id": 433
     },
@@ -3475,24 +3475,24 @@
     {
       "word": "late",
       "mean": "晚；迟",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/5 9:8",
       "id": 435
     },
     {
       "word": "why",
       "mean": "为什么",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/5 9:9",
       "id": 436
     },
     {
       "word": "shop",
       "mean": "去买东西；购物",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/5 9:21",
       "id": 437
     },
@@ -3507,16 +3507,16 @@
     {
       "word": "last",
       "mean": "上一个的；刚过去的",
-      "allTesting": 4,
-      "successTesting": 3,
+      "allTesting": 6,
+      "successTesting": 5,
       "entryDate": "2022/3/5 9:23",
       "id": 439
     },
     {
       "word": "sound",
       "mean": "听起来好像",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/3/5 9:26",
       "id": 440
     },
@@ -3531,32 +3531,32 @@
     {
       "word": "busy",
       "mean": "忙的",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/5 9:26",
       "id": 442
     },
     {
       "word": "need",
       "mean": "需要",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/6 9:8",
       "id": 443
     },
     {
       "word": "letter",
       "mean": "信",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/3/6 9:9",
       "id": 444
     },
     {
       "word": "island",
       "mean": "岛",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/6 9:10",
       "id": 445
     },
@@ -3571,16 +3571,16 @@
     {
       "word": "cave",
       "mean": "山洞；洞穴",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/6 9:11",
       "id": 447
     },
     {
       "word": "go swimming",
       "mean": "去游泳",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/6 9:11",
       "id": 448
     },
@@ -3595,80 +3595,80 @@
     {
       "word": "spring",
       "mean": "春天",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/3/6 9:12",
       "id": 450
     },
     {
       "word": "summer",
       "mean": "夏天",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/6 9:12",
       "id": 451
     },
     {
       "word": "autumn",
       "mean": "秋天",
-      "allTesting": 6,
-      "successTesting": 5,
+      "allTesting": 10,
+      "successTesting": 8,
       "entryDate": "2022/3/6 9:12",
       "id": 452
     },
     {
       "word": "winter",
       "mean": "冬天",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/6 9:20",
       "id": 453
     },
     {
       "word": "season",
       "mean": "季节",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/3/6 9:21",
       "id": 454
     },
     {
       "word": "go on a picnic",
       "mean": "去野餐",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 12,
       "entryDate": "2022/3/6 9:21",
       "id": 455
     },
     {
       "word": "pick apples",
       "mean": "摘苹果",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 11,
+      "successTesting": 10,
       "entryDate": "2022/3/6 9:22",
       "id": 456
     },
     {
       "word": "make a snowman",
       "mean": "堆雪人",
-      "allTesting": 10,
-      "successTesting": 9,
+      "allTesting": 13,
+      "successTesting": 11,
       "entryDate": "2022/3/6 9:22",
       "id": 457
     },
     {
       "word": "which",
       "mean": "哪一个",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/7 18:45",
       "id": 458
     },
     {
       "word": "best",
       "mean": "最；最高程度的",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 2,
+      "successTesting": 2,
       "entryDate": "2022/3/7 18:45",
       "id": 459
     },
@@ -3683,8 +3683,8 @@
     {
       "word": "because",
       "mean": "因为",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 1,
+      "successTesting": 1,
       "entryDate": "2022/3/7 18:46",
       "id": 461
     },
@@ -3707,32 +3707,32 @@
     {
       "word": "pink",
       "mean": "粉色",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/7 18:49",
       "id": 464
     },
     {
       "word": "lovely",
       "mean": "可爱的；美丽的",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/7 18:50",
       "id": 465
     },
     {
       "word": "leaf",
       "mean": "叶子",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/7 18:52",
       "id": 466
     },
     {
       "word": "fall",
       "mean": "落下；秋天",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 1,
+      "successTesting": 1,
       "entryDate": "2022/3/7 18:54",
       "id": 467
     },
@@ -3747,48 +3747,48 @@
     {
       "word": "January",
       "mean": "一月",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/7 18:56",
       "id": 469
     },
     {
       "word": "February",
       "mean": "二月",
-      "allTesting": 14,
-      "successTesting": 13,
+      "allTesting": 19,
+      "successTesting": 17,
       "entryDate": "2022/3/8 19:10",
       "id": 470
     },
     {
       "word": "March",
       "mean": "三月",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 10,
       "entryDate": "2022/3/8 19:10",
       "id": 471
     },
     {
       "word": "April",
       "mean": "四月",
-      "allTesting": 13,
-      "successTesting": 11,
+      "allTesting": 15,
+      "successTesting": 13,
       "entryDate": "2022/3/8 19:11",
       "id": 472
     },
     {
       "word": "May",
       "mean": "五月",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/8 19:11",
       "id": 473
     },
     {
       "word": "June",
       "mean": "六月",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/8 19:14",
       "id": 474
     },
@@ -3803,47 +3803,47 @@
     {
       "word": "August",
       "mean": "八月",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/8 19:16",
       "id": 476
     },
     {
       "word": "September",
       "mean": "九月",
-      "allTesting": 13,
-      "successTesting": 10,
+      "allTesting": 16,
+      "successTesting": 13,
       "entryDate": "2022/3/8 19:16",
       "id": 477
     },
     {
       "word": "October",
       "mean": "十月",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/8 19:16",
       "id": 478
     },
     {
       "word": "November",
       "mean": "十一月",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/8 19:17",
       "id": 479
     },
     {
       "word": "December",
       "mean": "十二月",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/8 19:18",
       "id": 480
     },
     {
       "word": "few",
       "mean": "不多；很少",
-      "allTesting": 3,
+      "allTesting": 4,
       "successTesting": 3,
       "entryDate": "2022/3/8 19:20",
       "id": 481
@@ -3859,24 +3859,24 @@
     {
       "word": "sports meet",
       "mean": "运动会",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/8 19:20",
       "id": 483
     },
     {
       "word": "trip",
       "mean": "旅行",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/8 19:21",
       "id": 484
     },
     {
       "word": "year",
       "mean": "年",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 19,
+      "successTesting": 16,
       "entryDate": "2022/3/8 19:21",
       "id": 485
     },
@@ -3899,8 +3899,8 @@
     {
       "word": "national",
       "mean": "国家的",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/8 19:23",
       "id": 488
     },
@@ -3923,72 +3923,72 @@
     {
       "word": "christmas",
       "mean": "圣诞节",
-      "allTesting": 8,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 8,
       "entryDate": "2022/3/9 18:26",
       "id": 491
     },
     {
       "word": "game",
       "mean": "游戏",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/9 18:26",
       "id": 492
     },
     {
       "word": "riddle",
       "mean": "谜；谜语",
-      "allTesting": 12,
-      "successTesting": 12,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/3/9 18:30",
       "id": 493
     },
     {
       "word": "act",
       "mean": "扮演",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/9 18:31",
       "id": 494
     },
     {
       "word": "first",
       "mean": "第一",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/9 18:32",
       "id": 495
     },
     {
       "word": "second",
       "mean": "第二",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/9 18:33",
       "id": 496
     },
     {
       "word": "third",
       "mean": "第三",
-      "allTesting": 14,
-      "successTesting": 14,
+      "allTesting": 22,
+      "successTesting": 22,
       "entryDate": "2022/3/9 18:34",
       "id": 497
     },
     {
       "word": "fourth",
       "mean": "第四",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/9 18:34",
       "id": 498
     },
     {
       "word": "fifth",
       "mean": "第五",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/9 18:34",
       "id": 499
     },
@@ -4011,16 +4011,16 @@
     {
       "word": "twenty-first",
       "mean": "第二十一",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/9 18:36",
       "id": 502
     },
     {
       "word": "twenty-third",
       "mean": "第二十三",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/9 18:38",
       "id": 503
     },
@@ -4035,8 +4035,8 @@
     {
       "word": "other",
       "mean": "其他",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/11 18:50",
       "id": 505
     },
@@ -4051,23 +4051,23 @@
     {
       "word": "show",
       "mean": "展览",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/3/11 18:51",
       "id": 507
     },
     {
       "word": "festival",
       "mean": "节日",
-      "allTesting": 10,
-      "successTesting": 7,
+      "allTesting": 11,
+      "successTesting": 8,
       "entryDate": "2022/3/11 18:51",
       "id": 508
     },
     {
       "word": "kitten",
       "mean": "小猫",
-      "allTesting": 5,
+      "allTesting": 6,
       "successTesting": 5,
       "entryDate": "2022/3/11 18:51",
       "id": 509
@@ -4091,7 +4091,7 @@
     {
       "word": "noise",
       "mean": "声音；响声",
-      "allTesting": 6,
+      "allTesting": 7,
       "successTesting": 6,
       "entryDate": "2022/3/11 18:53",
       "id": 512
@@ -4099,32 +4099,32 @@
     {
       "word": "fur",
       "mean": "浓密的软毛",
-      "allTesting": 10,
-      "successTesting": 10,
+      "allTesting": 13,
+      "successTesting": 13,
       "entryDate": "2022/3/11 18:53",
       "id": 513
     },
     {
       "word": "open",
       "mean": "开着",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/11 18:54",
       "id": 514
     },
     {
       "word": "walk",
       "mean": "行走",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/11 18:54",
       "id": 515
     },
     {
       "word": "hers",
       "mean": "她的",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 3,
+      "successTesting": 2,
       "entryDate": "2022/3/11 19:6",
       "id": 516
     },
@@ -4139,48 +4139,48 @@
     {
       "word": "climbing",
       "mean": "（正在）攀登；攀爬",
-      "allTesting": 0,
-      "successTesting": 0,
+      "allTesting": 4,
+      "successTesting": 4,
       "entryDate": "2022/3/11 19:8",
       "id": 518
     },
     {
       "word": "eating",
       "mean": "（正在）吃",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/11 19:9",
       "id": 519
     },
     {
       "word": "playing",
       "mean": "（正在）玩耍",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:10",
       "id": 520
     },
     {
       "word": "jumping",
       "mean": "（正在）跳",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/12 9:11",
       "id": 521
     },
     {
       "word": "drinking",
       "mean": "（正在）喝水",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/12 9:11",
       "id": 522
     },
     {
       "word": "sleeping",
       "mean": "（正在）睡觉",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:11",
       "id": 523
     },
@@ -4203,47 +4203,47 @@
     {
       "word": "doing morning exercises",
       "mean": "（正在）做早操",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:13",
       "id": 526
     },
     {
       "word": "having class",
       "mean": "（正在）上课",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 5,
+      "successTesting": 5,
       "entryDate": "2022/3/12 9:14",
       "id": 527
     },
     {
       "word": "eating lunch",
       "mean": "（正在）吃午饭",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 6,
+      "successTesting": 5,
       "entryDate": "2022/3/12 9:14",
       "id": 528
     },
     {
       "word": "reading a book",
       "mean": "（正在）看书",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/12 9:15",
       "id": 529
     },
     {
       "word": "listening to music",
       "mean": "（正在）听音乐",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 12,
+      "successTesting": 12,
       "entryDate": "2022/3/12 9:16",
       "id": 530
     },
     {
       "word": "keep to the right",
       "mean": "靠右",
-      "allTesting": 3,
+      "allTesting": 4,
       "successTesting": 2,
       "entryDate": "2022/3/12 9:17",
       "id": 531
@@ -4251,193 +4251,2889 @@
     {
       "word": "keep your desk clean",
       "mean": "保持你的课桌干净",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/12 9:17",
       "id": 532
     },
     {
       "word": "talk quietly",
       "mean": "小声说话",
-      "allTesting": 14,
-      "successTesting": 9,
+      "allTesting": 17,
+      "successTesting": 12,
       "entryDate": "2022/3/12 9:18",
       "id": 533
     },
     {
       "word": "take turns",
       "mean": "按顺序来",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/12 9:19",
       "id": 534
     },
     {
       "word": "bamboo",
       "mean": "竹子",
-      "allTesting": 9,
-      "successTesting": 8,
+      "allTesting": 12,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:19",
       "id": 535
     },
     {
       "word": "its",
       "mean": "它的；他的；她的",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 9,
+      "successTesting": 9,
       "entryDate": "2022/3/12 9:19",
       "id": 536
     },
     {
       "word": "anything",
       "mean": "任何事物",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:20",
       "id": 537
     },
     {
       "word": "else",
       "mean": "另外；其他",
-      "allTesting": 5,
-      "successTesting": 4,
+      "allTesting": 14,
+      "successTesting": 6,
       "entryDate": "2022/3/12 9:20",
       "id": 538
     },
     {
       "word": "exhibition",
       "mean": "展览",
-      "allTesting": 7,
-      "successTesting": 6,
+      "allTesting": 11,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:21",
       "id": 539
     },
     {
       "word": "say",
       "mean": "说；讲",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:21",
       "id": 540
     },
     {
       "word": "have a look",
       "mean": "看一看",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 7,
+      "successTesting": 7,
       "entryDate": "2022/3/12 9:21",
       "id": 541
     },
     {
       "word": "sushi",
       "mean": "寿司",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/3/12 9:22",
       "id": 542
     },
     {
       "word": "teach",
       "mean": "教",
-      "allTesting": 5,
-      "successTesting": 5,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:22",
       "id": 543
     },
     {
       "word": "sure",
       "mean": "（表示同意）当然",
-      "allTesting": 3,
-      "successTesting": 2,
+      "allTesting": 10,
+      "successTesting": 8,
       "entryDate": "2022/3/12 9:22",
       "id": 544
     },
     {
       "word": "science",
       "mean": "科学",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:25",
       "id": 545
     },
     {
       "word": "museum",
       "mean": "博物馆",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 14,
+      "successTesting": 13,
       "entryDate": "2022/3/12 9:25",
       "id": 546
     },
     {
       "word": "post office",
       "mean": "邮局",
-      "allTesting": 7,
-      "successTesting": 7,
+      "allTesting": 8,
+      "successTesting": 8,
       "entryDate": "2022/3/12 9:25",
       "id": 547
     },
     {
       "word": "bookstore",
       "mean": "书店",
-      "allTesting": 6,
-      "successTesting": 6,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:26",
       "id": 548
     },
     {
       "word": "cinema",
       "mean": "电影院",
-      "allTesting": 8,
-      "successTesting": 8,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:26",
       "id": 549
     },
     {
       "word": "hospital",
       "mean": "医院",
-      "allTesting": 9,
-      "successTesting": 9,
+      "allTesting": 11,
+      "successTesting": 11,
       "entryDate": "2022/3/12 9:26",
       "id": 550
     },
     {
       "word": "crossing",
       "mean": "十字路口",
-      "allTesting": 1,
-      "successTesting": 1,
+      "allTesting": 6,
+      "successTesting": 6,
       "entryDate": "2022/3/12 9:26",
       "id": 551
     },
     {
       "word": "turn",
       "mean": "转弯",
-      "allTesting": 3,
-      "successTesting": 3,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:27",
       "id": 552
     },
     {
       "word": "left",
       "mean": "左",
-      "allTesting": 4,
-      "successTesting": 4,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:27",
       "id": 553
     },
     {
       "word": "straight",
       "mean": "笔直的",
-      "allTesting": 2,
-      "successTesting": 2,
+      "allTesting": 10,
+      "successTesting": 10,
       "entryDate": "2022/3/12 9:28",
       "id": 554
+    },
+    {
+      "word": "ask",
+      "mean": "问",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/13 8:49",
+      "id": 555
+    },
+    {
+      "word": "sir",
+      "mean": "先生",
+      "allTesting": 27,
+      "successTesting": 27,
+      "entryDate": "2022/3/13 8:53",
+      "id": 556
+    },
+    {
+      "word": "interesting",
+      "mean": "有趣的",
+      "allTesting": 11,
+      "successTesting": 9,
+      "entryDate": "2022/3/13 8:55",
+      "id": 557
+    },
+    {
+      "word": "restaurant",
+      "mean": "餐馆",
+      "allTesting": 16,
+      "successTesting": 13,
+      "entryDate": "2022/3/13 8:56",
+      "id": 558
+    },
+    {
+      "word": "pizza",
+      "mean": "披萨",
+      "allTesting": 14,
+      "successTesting": 14,
+      "entryDate": "2022/3/13 8:57",
+      "id": 559
+    },
+    {
+      "word": "street",
+      "mean": "大街；街道",
+      "allTesting": 13,
+      "successTesting": 13,
+      "entryDate": "2022/3/13 8:57",
+      "id": 560
+    },
+    {
+      "word": "get",
+      "mean": "到达",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/13 8:58",
+      "id": 561
+    },
+    {
+      "word": "gave",
+      "mean": "提供；交给",
+      "allTesting": 8,
+      "successTesting": 7,
+      "entryDate": "2022/3/13 8:58",
+      "id": 562
+    },
+    {
+      "word": "feature",
+      "mean": "特点",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/13 8:58",
+      "id": 563
+    },
+    {
+      "word": "follow",
+      "mean": "跟着",
+      "allTesting": 18,
+      "successTesting": 18,
+      "entryDate": "2022/3/13 8:59",
+      "id": 564
+    },
+    {
+      "word": "far",
+      "mean": "远的",
+      "allTesting": 13,
+      "successTesting": 13,
+      "entryDate": "2022/3/13 8:59",
+      "id": 565
+    },
+    {
+      "word": "tell",
+      "mean": "告诉",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/13 8:59",
+      "id": 566
+    },
+    {
+      "word": "on foot",
+      "mean": "步行",
+      "allTesting": 17,
+      "successTesting": 17,
+      "entryDate": "2022/3/13 8:59",
+      "id": 567
+    },
+    {
+      "word": "bus",
+      "mean": "公交",
+      "allTesting": 18,
+      "successTesting": 18,
+      "entryDate": "2022/3/13 9:1",
+      "id": 568
+    },
+    {
+      "word": "plane",
+      "mean": "飞机",
+      "allTesting": 17,
+      "successTesting": 17,
+      "entryDate": "2022/3/13 9:1",
+      "id": 569
+    },
+    {
+      "word": "taxi",
+      "mean": "出租汽车",
+      "allTesting": 15,
+      "successTesting": 15,
+      "entryDate": "2022/3/13 9:1",
+      "id": 570
+    },
+    {
+      "word": "ship",
+      "mean": "船",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/13 9:1",
+      "id": 571
+    },
+    {
+      "word": "subway",
+      "mean": "地铁",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:41",
+      "id": 572
+    },
+    {
+      "word": "train",
+      "mean": "火车",
+      "allTesting": 9,
+      "successTesting": 8,
+      "entryDate": "2022/3/14 19:41",
+      "id": 573
+    },
+    {
+      "word": "slow",
+      "mean": "放慢速度；慢的",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:41",
+      "id": 574
+    },
+    {
+      "word": "slow down",
+      "mean": "慢下来",
+      "allTesting": 9,
+      "successTesting": 7,
+      "entryDate": "2022/3/14 19:42",
+      "id": 575
+    },
+    {
+      "word": "stop",
+      "mean": "停下来",
+      "allTesting": 5,
+      "successTesting": 4,
+      "entryDate": "2022/3/14 19:42",
+      "id": 576
+    },
+    {
+      "word": "Mrs",
+      "mean": "夫人",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:43",
+      "id": 577
+    },
+    {
+      "word": "early",
+      "mean": "早到的",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/14 19:44",
+      "id": 578
+    },
+    {
+      "word": "helmet",
+      "mean": "头盔",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:44",
+      "id": 579
+    },
+    {
+      "word": "must",
+      "mean": "必须",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:45",
+      "id": 580
+    },
+    {
+      "word": "wear",
+      "mean": "戴",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/14 19:45",
+      "id": 581
+    },
+    {
+      "word": "pay attention to",
+      "mean": "注意",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/14 19:46",
+      "id": 582
+    },
+    {
+      "word": "traffic lights",
+      "mean": "交通信号灯",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/14 19:46",
+      "id": 583
+    },
+    {
+      "word": "sled",
+      "mean": "雪橇",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/14 19:48",
+      "id": 584
+    },
+    {
+      "word": "fast",
+      "mean": "快",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/14 19:48",
+      "id": 585
+    },
+    {
+      "word": "ferry",
+      "mean": "轮渡",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/14 19:48",
+      "id": 586
+    },
+    {
+      "word": "visit",
+      "mean": "拜访",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/15 17:58",
+      "id": 587
+    },
+    {
+      "word": "see a film",
+      "mean": "看电影",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/15 17:58",
+      "id": 588
+    },
+    {
+      "word": "take a trip",
+      "mean": "去旅行",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/15 17:58",
+      "id": 589
+    },
+    {
+      "word": "supermarket",
+      "mean": "超市",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/15 17:59",
+      "id": 590
+    },
+    {
+      "word": "evening",
+      "mean": "晚上；傍晚",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/15 17:59",
+      "id": 591
+    },
+    {
+      "word": "tonight",
+      "mean": "在今晚",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/15 18:0",
+      "id": 592
+    },
+    {
+      "word": "tomorrow",
+      "mean": "明天",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/15 18:0",
+      "id": 593
+    },
+    {
+      "word": "next week",
+      "mean": "下周",
+      "allTesting": 3,
+      "successTesting": 0,
+      "entryDate": "2022/3/15 18:0",
+      "id": 594
+    },
+    {
+      "word": "dictionary",
+      "mean": "词典",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/15 18:0",
+      "id": 595
+    },
+    {
+      "word": "comic book",
+      "mean": "连环画册",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/15 18:1",
+      "id": 596
+    },
+    {
+      "word": "word book",
+      "mean": "单词书",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/15 18:1",
+      "id": 597
+    },
+    {
+      "word": "postcard",
+      "mean": "明信片",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/15 18:1",
+      "id": 598
+    },
+    {
+      "word": "lesson",
+      "mean": "课",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/15 18:2",
+      "id": 599
+    },
+    {
+      "word": "space",
+      "mean": "太空",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/15 18:2",
+      "id": 600
+    },
+    {
+      "word": "travel",
+      "mean": "旅行",
+      "allTesting": 6,
+      "successTesting": 4,
+      "entryDate": "2022/3/15 18:2",
+      "id": 601
+    },
+    {
+      "word": "half",
+      "mean": "一半",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/15 18:2",
+      "id": 602
+    },
+    {
+      "word": "price",
+      "mean": "价格",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/15 18:3",
+      "id": 603
+    },
+    {
+      "word": "together",
+      "mean": "一起",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/15 18:3",
+      "id": 604
+    },
+    {
+      "word": "get together",
+      "mean": "聚会",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/15 18:3",
+      "id": 605
+    },
+    {
+      "word": "mooncake",
+      "mean": "月饼",
+      "allTesting": 4,
+      "successTesting": 2,
+      "entryDate": "2022/3/15 18:4",
+      "id": 606
+    },
+    {
+      "word": "poem",
+      "mean": "诗",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/15 18:4",
+      "id": 607
+    },
+    {
+      "word": "moon",
+      "mean": "月亮",
+      "allTesting": 16,
+      "successTesting": 16,
+      "entryDate": "2022/3/15 18:4",
+      "id": 608
+    },
+    {
+      "word": "studies",
+      "mean": "（study的第三人称单数形式）学习",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/16 18:23",
+      "id": 609
+    },
+    {
+      "word": "puzzle",
+      "mean": "谜",
+      "allTesting": 17,
+      "successTesting": 16,
+      "entryDate": "2022/3/16 18:24",
+      "id": 610
+    },
+    {
+      "word": "hiking",
+      "mean": "远足",
+      "allTesting": 17,
+      "successTesting": 17,
+      "entryDate": "2022/3/16 18:24",
+      "id": 611
+    },
+    {
+      "word": "pen pal",
+      "mean": "笔友",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/16 18:25",
+      "id": 612
+    },
+    {
+      "word": "hobby",
+      "mean": "业余爱好",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/16 18:25",
+      "id": 613
+    },
+    {
+      "word": "jasmine",
+      "mean": "茉莉花",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/16 18:26",
+      "id": 614
+    },
+    {
+      "word": "idea",
+      "mean": "想法；主意",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/16 18:26",
+      "id": 615
+    },
+    {
+      "word": "canberra",
+      "mean": "堪培拉",
+      "allTesting": 13,
+      "successTesting": 10,
+      "entryDate": "2022/3/16 18:27",
+      "id": 616
+    },
+    {
+      "word": "amazing",
+      "mean": "令人惊奇的",
+      "allTesting": 11,
+      "successTesting": 10,
+      "entryDate": "2022/3/16 18:27",
+      "id": 617
+    },
+    {
+      "word": "shall",
+      "mean": "表示征求意见",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/16 18:28",
+      "id": 618
+    },
+    {
+      "word": "goal",
+      "mean": "射门",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/16 18:29",
+      "id": 619
+    },
+    {
+      "word": "join",
+      "mean": "加入",
+      "allTesting": 16,
+      "successTesting": 15,
+      "entryDate": "2022/3/16 18:30",
+      "id": 620
+    },
+    {
+      "word": "club",
+      "mean": "俱乐部",
+      "allTesting": 13,
+      "successTesting": 13,
+      "entryDate": "2022/3/16 18:30",
+      "id": 621
+    },
+    {
+      "word": "share",
+      "mean": "分享",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/16 18:30",
+      "id": 622
+    },
+    {
+      "word": "factory",
+      "mean": "工厂",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/16 18:31",
+      "id": 623
+    },
+    {
+      "word": "worker",
+      "mean": "工人",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/17 18:51",
+      "id": 624
+    },
+    {
+      "word": "postman",
+      "mean": "邮递员",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/17 18:52",
+      "id": 625
+    },
+    {
+      "word": "businessman",
+      "mean": "商人；企业家",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/17 18:52",
+      "id": 626
+    },
+    {
+      "word": "police officer",
+      "mean": "警察",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/17 18:52",
+      "id": 627
+    },
+    {
+      "word": "fisherman",
+      "mean": "渔民",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/17 18:53",
+      "id": 628
+    },
+    {
+      "word": "scientist",
+      "mean": "科学家",
+      "allTesting": 2,
+      "successTesting": 1,
+      "entryDate": "2022/3/17 18:53",
+      "id": 629
+    },
+    {
+      "word": "pilot",
+      "mean": "飞行员",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/17 18:53",
+      "id": 630
+    },
+    {
+      "word": "coach",
+      "mean": "教练",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/17 18:54",
+      "id": 631
+    },
+    {
+      "word": "country",
+      "mean": "国家",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/17 18:54",
+      "id": 632
+    },
+    {
+      "word": "head teacher",
+      "mean": "校长",
+      "allTesting": 5,
+      "successTesting": 3,
+      "entryDate": "2022/3/17 18:54",
+      "id": 633
+    },
+    {
+      "word": "sea",
+      "mean": "大海",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/17 18:55",
+      "id": 634
+    },
+    {
+      "word": "stay",
+      "mean": "保持",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/17 18:56",
+      "id": 635
+    },
+    {
+      "word": "university",
+      "mean": "大学",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/17 18:56",
+      "id": 636
+    },
+    {
+      "word": "gym",
+      "mean": "体育馆",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/17 18:56",
+      "id": 637
+    },
+    {
+      "word": "if",
+      "mean": "如果",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/17 18:56",
+      "id": 638
+    },
+    {
+      "word": "reporter",
+      "mean": "记者",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/21 19:4",
+      "id": 639
+    },
+    {
+      "word": "use",
+      "mean": "使用",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/21 19:5",
+      "id": 640
+    },
+    {
+      "word": "type",
+      "mean": "打字",
+      "allTesting": 3,
+      "successTesting": 2,
+      "entryDate": "2022/3/21 19:5",
+      "id": 641
+    },
+    {
+      "word": "quickly",
+      "mean": "迅速的",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/21 19:6",
+      "id": 642
+    },
+    {
+      "word": "secretary",
+      "mean": "秘书",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/21 19:6",
+      "id": 643
+    },
+    {
+      "word": "angry",
+      "mean": "生气的",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/21 19:7",
+      "id": 644
+    },
+    {
+      "word": "afraid",
+      "mean": "害怕的",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/21 19:8",
+      "id": 645
+    },
+    {
+      "word": "sad",
+      "mean": "难过的",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/21 19:8",
+      "id": 646
+    },
+    {
+      "word": "worried",
+      "mean": "担心的",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/21 19:8",
+      "id": 647
+    },
+    {
+      "word": "happy",
+      "mean": "高兴的",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/21 19:8",
+      "id": 648
+    },
+    {
+      "word": "see a doctor",
+      "mean": "看医生",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/21 19:10",
+      "id": 649
+    },
+    {
+      "word": "deep",
+      "mean": "深的",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/21 19:11",
+      "id": 650
+    },
+    {
+      "word": "breath",
+      "mean": "呼吸",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/21 19:11",
+      "id": 651
+    },
+    {
+      "word": "take a deep breath",
+      "mean": "深深吸一口气",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/21 19:11",
+      "id": 652
+    },
+    {
+      "word": "count to ten",
+      "mean": "数到十",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/21 19:12",
+      "id": 653
+    },
+    {
+      "word": "chase",
+      "mean": "追赶",
+      "allTesting": 7,
+      "successTesting": 6,
+      "entryDate": "2022/3/21 19:12",
+      "id": 654
+    },
+    {
+      "word": "mice",
+      "mean": "（mouse的复数）老鼠",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/21 19:13",
+      "id": 655
+    },
+    {
+      "word": "bad",
+      "mean": "邪恶的；坏的",
+      "allTesting": 12,
+      "successTesting": 11,
+      "entryDate": "2022/3/21 19:13",
+      "id": 656
+    },
+    {
+      "word": "hurt",
+      "mean": "受伤",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/21 19:14",
+      "id": 657
+    },
+    {
+      "word": "ill",
+      "mean": "有病；不舒服",
+      "allTesting": 14,
+      "successTesting": 12,
+      "entryDate": "2022/3/21 19:14",
+      "id": 658
+    },
+    {
+      "word": "wrong",
+      "mean": "有毛病",
+      "allTesting": 22,
+      "successTesting": 21,
+      "entryDate": "2022/3/21 19:14",
+      "id": 659
+    },
+    {
+      "word": "feel",
+      "mean": "感觉",
+      "allTesting": 22,
+      "successTesting": 20,
+      "entryDate": "2022/3/22 19:6",
+      "id": 660
+    },
+    {
+      "word": "well",
+      "mean": "健康；身体好",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/22 19:6",
+      "id": 661
+    },
+    {
+      "word": "sit",
+      "mean": "坐",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/22 19:7",
+      "id": 662
+    },
+    {
+      "word": "grass",
+      "mean": "草坪",
+      "allTesting": 14,
+      "successTesting": 14,
+      "entryDate": "2022/3/22 19:7",
+      "id": 663
+    },
+    {
+      "word": "hear",
+      "mean": "听见",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/22 19:8",
+      "id": 664
+    },
+    {
+      "word": "ant",
+      "mean": "蚂蚁",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/22 19:8",
+      "id": 665
+    },
+    {
+      "word": "worry",
+      "mean": "担心",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/22 19:8",
+      "id": 666
+    },
+    {
+      "word": "stuck",
+      "mean": "陷住",
+      "allTesting": 18,
+      "successTesting": 18,
+      "entryDate": "2022/3/22 19:9",
+      "id": 667
+    },
+    {
+      "word": "mud",
+      "mean": "泥",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/22 19:10",
+      "id": 668
+    },
+    {
+      "word": "pull",
+      "mean": "拉",
+      "allTesting": 16,
+      "successTesting": 16,
+      "entryDate": "2022/3/22 19:10",
+      "id": 669
+    },
+    {
+      "word": "push",
+      "mean": "推",
+      "allTesting": 18,
+      "successTesting": 18,
+      "entryDate": "2022/3/22 19:10",
+      "id": 670
+    },
+    {
+      "word": "everyone",
+      "mean": "每人",
+      "allTesting": 18,
+      "successTesting": 16,
+      "entryDate": "2022/3/22 19:11",
+      "id": 671
+    },
+    {
+      "word": "younger",
+      "mean": "更年轻的",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/22 19:28",
+      "id": 672
+    },
+    {
+      "word": "older",
+      "mean": "更年长的",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/22 19:29",
+      "id": 673
+    },
+    {
+      "word": "taller",
+      "mean": "更高的",
+      "allTesting": 15,
+      "successTesting": 15,
+      "entryDate": "2022/3/22 19:29",
+      "id": 674
+    },
+    {
+      "word": "shorter",
+      "mean": "更矮的",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:14",
+      "id": 675
+    },
+    {
+      "word": "longer",
+      "mean": "更长的",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:15",
+      "id": 676
+    },
+    {
+      "word": "thinner",
+      "mean": "更瘦的",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/24 18:15",
+      "id": 677
+    },
+    {
+      "word": "heavier",
+      "mean": "更重的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/24 18:15",
+      "id": 678
+    },
+    {
+      "word": "bigger",
+      "mean": "更大的",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/24 18:15",
+      "id": 679
+    },
+    {
+      "word": "smaller",
+      "mean": "更小的",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/24 18:16",
+      "id": 680
+    },
+    {
+      "word": "stronger",
+      "mean": "更强壮的",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/24 18:16",
+      "id": 681
+    },
+    {
+      "word": "dinosaur",
+      "mean": "恐龙",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/24 18:17",
+      "id": 682
+    },
+    {
+      "word": "hall",
+      "mean": "大厅",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:17",
+      "id": 683
+    },
+    {
+      "word": "metre",
+      "mean": "米",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/24 18:17",
+      "id": 684
+    },
+    {
+      "word": "than",
+      "mean": "比",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:17",
+      "id": 685
+    },
+    {
+      "word": "both",
+      "mean": "两个都",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:17",
+      "id": 686
+    },
+    {
+      "word": "kilogram",
+      "mean": "千克；公斤",
+      "allTesting": 3,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:18",
+      "id": 687
+    },
+    {
+      "word": "countryside",
+      "mean": "乡村",
+      "allTesting": 3,
+      "successTesting": 2,
+      "entryDate": "2022/3/24 18:18",
+      "id": 688
+    },
+    {
+      "word": "lower",
+      "mean": "更矮的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/24 18:18",
+      "id": 689
+    },
+    {
+      "word": "shadow",
+      "mean": "阴影；影子",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/25 19:18",
+      "id": 690
+    },
+    {
+      "word": "smarter",
+      "mean": "更聪明的",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/25 19:30",
+      "id": 691
+    },
+    {
+      "word": "become",
+      "mean": "开始变得；变成",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/25 19:30",
+      "id": 692
+    },
+    {
+      "word": "cleaned",
+      "mean": "（clean的过去式）打扫",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/25 19:31",
+      "id": 693
+    },
+    {
+      "word": "stayed",
+      "mean": "（stay的过去式）停留；待",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/25 19:31",
+      "id": 694
+    },
+    {
+      "word": "washed",
+      "mean": "（wash的过去式）洗",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/25 19:31",
+      "id": 695
+    },
+    {
+      "word": "watched",
+      "mean": "（watch的过去式）看",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/25 19:32",
+      "id": 696
+    },
+    {
+      "word": "had a cold",
+      "mean": "感冒了",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/25 19:33",
+      "id": 697
+    },
+    {
+      "word": "slept",
+      "mean": "（sleep的过去式）睡觉",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/25 19:33",
+      "id": 698
+    },
+    {
+      "word": "read",
+      "mean": "（read的过去式）读",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/25 19:34",
+      "id": 699
+    },
+    {
+      "word": "saw",
+      "mean": "（see的过去式）",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/25 19:34",
+      "id": 700
+    },
+    {
+      "word": "faster",
+      "mean": "更快的",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/25 19:35",
+      "id": 701
+    },
+    {
+      "word": "yesterday",
+      "mean": "昨天",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/25 19:37",
+      "id": 702
+    },
+    {
+      "word": "before",
+      "mean": "在之前",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/25 19:37",
+      "id": 703
+    },
+    {
+      "word": "drank",
+      "mean": "（drink的过去式）",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/25 19:38",
+      "id": 704
+    },
+    {
+      "word": "better",
+      "mean": "更好的",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/25 19:43",
+      "id": 705
+    },
+    {
+      "word": "hotel",
+      "mean": "旅馆",
+      "allTesting": 7,
+      "successTesting": 6,
+      "entryDate": "2022/3/25 19:46",
+      "id": 706
+    },
+    {
+      "word": "fixed",
+      "mean": "修理",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/25 19:47",
+      "id": 707
+    },
+    {
+      "word": "broken",
+      "mean": "破损的",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/25 19:47",
+      "id": 708
+    },
+    {
+      "word": "lamp",
+      "mean": "台灯",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/26 8:37",
+      "id": 709
+    },
+    {
+      "word": "loud",
+      "mean": "喧闹的；大声的",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/26 8:37",
+      "id": 710
+    },
+    {
+      "word": "enjoy",
+      "mean": "享受乐趣；喜爱",
+      "allTesting": 12,
+      "successTesting": 9,
+      "entryDate": "2022/3/26 8:38",
+      "id": 711
+    },
+    {
+      "word": "went",
+      "mean": "（go的过去式）去",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/26 8:39",
+      "id": 712
+    },
+    {
+      "word": "camp",
+      "mean": "野营",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/26 8:40",
+      "id": 713
+    },
+    {
+      "word": "went fishing",
+      "mean": "去钓鱼",
+      "allTesting": 9,
+      "successTesting": 8,
+      "entryDate": "2022/3/26 8:40",
+      "id": 714
+    },
+    {
+      "word": "rode a horse",
+      "mean": "骑马",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/26 8:41",
+      "id": 715
+    },
+    {
+      "word": "rode a bike",
+      "mean": "骑自行车",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/26 8:42",
+      "id": 716
+    },
+    {
+      "word": "ate",
+      "mean": "（eat的过去式）吃",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/26 8:42",
+      "id": 717
+    },
+    {
+      "word": "took",
+      "mean": "（take的过去式）拍照",
+      "allTesting": 17,
+      "successTesting": 16,
+      "entryDate": "2022/3/26 8:43",
+      "id": 718
+    },
+    {
+      "word": "took pictures",
+      "mean": "照相",
+      "allTesting": 22,
+      "successTesting": 19,
+      "entryDate": "2022/3/26 8:44",
+      "id": 719
+    },
+    {
+      "word": "bought",
+      "mean": "（buy的过去式）买",
+      "allTesting": 14,
+      "successTesting": 13,
+      "entryDate": "2022/3/26 8:44",
+      "id": 720
+    },
+    {
+      "word": "gift",
+      "mean": "礼物",
+      "allTesting": 14,
+      "successTesting": 14,
+      "entryDate": "2022/3/26 8:45",
+      "id": 721
+    },
+    {
+      "word": "fell",
+      "mean": "（fall的过去式）摔倒",
+      "allTesting": 5,
+      "successTesting": 4,
+      "entryDate": "2022/3/26 8:49",
+      "id": 722
+    },
+    {
+      "word": "off",
+      "mean": "从（某处）掉下",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/26 8:49",
+      "id": 723
+    },
+    {
+      "word": "mule",
+      "mean": "骡子",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/26 8:50",
+      "id": 724
+    },
+    {
+      "word": "could",
+      "mean": "（can的过去式）能",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/27 9:22",
+      "id": 725
+    },
+    {
+      "word": "till",
+      "mean": "直到",
+      "allTesting": 6,
+      "successTesting": 2,
+      "entryDate": "2022/3/27 9:22",
+      "id": 726
+    },
+    {
+      "word": "beach",
+      "mean": "沙滩",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/27 9:22",
+      "id": 727
+    },
+    {
+      "word": "basket",
+      "mean": "篮子",
+      "allTesting": 12,
+      "successTesting": 11,
+      "entryDate": "2022/3/27 9:23",
+      "id": 728
+    },
+    {
+      "word": "part",
+      "mean": "角色",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/27 9:23",
+      "id": 729
+    },
+    {
+      "word": "licked",
+      "mean": "（lick的过去式）舔",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/27 9:23",
+      "id": 730
+    },
+    {
+      "word": "laughed",
+      "mean": "（laugh的过去式）笑",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/27 9:24",
+      "id": 731
+    },
+    {
+      "word": "dining hall",
+      "mean": "饭厅",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/27 9:26",
+      "id": 732
+    },
+    {
+      "word": "ago",
+      "mean": "以前",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/27 9:26",
+      "id": 733
+    },
+    {
+      "word": "go cycling",
+      "mean": "去骑自行车",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/27 9:26",
+      "id": 734
+    },
+    {
+      "word": "ice-skate",
+      "mean": "滑冰",
+      "allTesting": 1,
+      "successTesting": 0,
+      "entryDate": "2022/3/27 9:27",
+      "id": 735
+    },
+    {
+      "word": "badminton",
+      "mean": "羽毛球运动",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/27 9:27",
+      "id": 736
+    },
+    {
+      "word": "star",
+      "mean": "星星",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/27 9:28",
+      "id": 737
+    },
+    {
+      "word": "easy",
+      "mean": "容易的",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/27 9:28",
+      "id": 738
+    },
+    {
+      "word": "look up",
+      "mean": "查阅",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/27 9:28",
+      "id": 739
+    },
+    {
+      "word": "internet",
+      "mean": "互联网",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/3/28 18:29",
+      "id": 740
+    },
+    {
+      "word": "different",
+      "mean": "不同的",
+      "allTesting": 1,
+      "successTesting": 0,
+      "entryDate": "2022/3/28 18:29",
+      "id": 741
+    },
+    {
+      "word": "active",
+      "mean": "积极的；活跃的",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/28 18:29",
+      "id": 742
+    },
+    {
+      "word": "race",
+      "mean": "赛跑",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/28 18:29",
+      "id": 743
+    },
+    {
+      "word": "nothing",
+      "mean": "没有什么",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/3/28 18:30",
+      "id": 744
+    },
+    {
+      "word": "thought",
+      "mean": "（think的过去式）想",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/28 18:30",
+      "id": 745
+    },
+    {
+      "word": "felt",
+      "mean": "（feel的过去式）感觉",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/28 18:30",
+      "id": 746
+    },
+    {
+      "word": "cheetah",
+      "mean": "猎豹",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/28 18:31",
+      "id": 747
+    },
+    {
+      "word": "woke",
+      "mean": "（wake的过去式）醒",
+      "allTesting": 9,
+      "successTesting": 7,
+      "entryDate": "2022/3/28 18:32",
+      "id": 748
+    },
+    {
+      "word": "dream",
+      "mean": "梦",
+      "allTesting": 13,
+      "successTesting": 12,
+      "entryDate": "2022/3/28 18:32",
+      "id": 749
+    },
+    {
+      "word": "good",
+      "mean": "好的",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/3/28 18:35",
+      "id": 750
+    },
+    {
+      "word": "hi",
+      "mean": "嗨；喂",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/28 18:35",
+      "id": 751
+    },
+    {
+      "word": "morning",
+      "mean": "早上",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/28 18:36",
+      "id": 752
+    },
+    {
+      "word": "afternoon",
+      "mean": "下午",
+      "allTesting": 5,
+      "successTesting": 4,
+      "entryDate": "2022/3/28 18:37",
+      "id": 753
+    },
+    {
+      "word": "how",
+      "mean": "怎样",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/29 19:5",
+      "id": 754
+    },
+    {
+      "word": "i",
+      "mean": "我",
+      "allTesting": 3,
+      "successTesting": 2,
+      "entryDate": "2022/3/29 19:6",
+      "id": 755
+    },
+    {
+      "word": "am",
+      "mean": "是",
+      "allTesting": 4,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:6",
+      "id": 756
+    },
+    {
+      "word": "fine",
+      "mean": "健康的；美好的",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/29 19:6",
+      "id": 757
+    },
+    {
+      "word": "is",
+      "mean": "是",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/3/29 19:7",
+      "id": 758
+    },
+    {
+      "word": "what",
+      "mean": "什么",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/29 19:7",
+      "id": 759
+    },
+    {
+      "word": "this",
+      "mean": "这个",
+      "allTesting": 11,
+      "successTesting": 10,
+      "entryDate": "2022/3/29 19:8",
+      "id": 760
+    },
+    {
+      "word": "cup",
+      "mean": "杯子",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:8",
+      "id": 761
+    },
+    {
+      "word": "quilt",
+      "mean": "被子；被套",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:8",
+      "id": 762
+    },
+    {
+      "word": "it",
+      "mean": "它",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:9",
+      "id": 763
+    },
+    {
+      "word": "that",
+      "mean": "那个",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:9",
+      "id": 764
+    },
+    {
+      "word": "spell",
+      "mean": "用字母拼；拼写",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/3/29 19:9",
+      "id": 765
+    },
+    {
+      "word": "please",
+      "mean": "请",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/29 19:10",
+      "id": 766
+    },
+    {
+      "word": "color",
+      "mean": "颜色",
+      "allTesting": 11,
+      "successTesting": 10,
+      "entryDate": "2022/3/29 19:10",
+      "id": 767
+    },
+    {
+      "word": "purple",
+      "mean": "紫色的",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/29 19:11",
+      "id": 768
+    },
+    {
+      "word": "name",
+      "mean": "名字",
+      "allTesting": 11,
+      "successTesting": 10,
+      "entryDate": "2022/3/30 18:39",
+      "id": 769
+    },
+    {
+      "word": "meet",
+      "mean": "遇见；相逢",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/3/30 18:39",
+      "id": 770
+    },
+    {
+      "word": "yes",
+      "mean": "是的；可以",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/30 18:48",
+      "id": 771
+    },
+    {
+      "word": "zero",
+      "mean": "零",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/30 18:49",
+      "id": 772
+    },
+    {
+      "word": "telephone",
+      "mean": "电话；电话机",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/3/30 18:50",
+      "id": 773
+    },
+    {
+      "word": "number",
+      "mean": "数字；电话",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/30 18:50",
+      "id": 774
+    },
+    {
+      "word": "phone number",
+      "mean": "电话号码",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/30 18:52",
+      "id": 775
+    },
+    {
+      "word": "first name",
+      "mean": "名字",
+      "allTesting": 9,
+      "successTesting": 8,
+      "entryDate": "2022/3/30 18:52",
+      "id": 776
+    },
+    {
+      "word": "last name",
+      "mean": "姓",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/30 18:53",
+      "id": 777
+    },
+    {
+      "word": "middle",
+      "mean": "中间；中间的",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/3/30 18:53",
+      "id": 778
+    },
+    {
+      "word": "middle school",
+      "mean": "中学",
+      "allTesting": 9,
+      "successTesting": 8,
+      "entryDate": "2022/3/30 18:53",
+      "id": 779
+    },
+    {
+      "word": "parent",
+      "mean": "父母",
+      "allTesting": 13,
+      "successTesting": 13,
+      "entryDate": "2022/3/30 18:54",
+      "id": 780
+    },
+    {
+      "word": "who",
+      "mean": "谁；什么人",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/30 18:54",
+      "id": 781
+    },
+    {
+      "word": "son",
+      "mean": "儿子",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/3/30 18:57",
+      "id": 782
+    },
+    {
+      "word": "mom",
+      "mean": "妈妈",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/3/30 18:58",
+      "id": 783
+    },
+    {
+      "word": "excuse",
+      "mean": "原谅；宽恕",
+      "allTesting": 10,
+      "successTesting": 8,
+      "entryDate": "2022/3/31 18:48",
+      "id": 784
+    },
+    {
+      "word": "about",
+      "mean": "关于",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/3/31 18:48",
+      "id": 785
+    },
+    {
+      "word": "welcome",
+      "mean": "受欢迎的",
+      "allTesting": 17,
+      "successTesting": 17,
+      "entryDate": "2022/3/31 18:49",
+      "id": 786
+    },
+    {
+      "word": "baseball",
+      "mean": "棒球",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/3/31 18:50",
+      "id": 787
+    },
+    {
+      "word": "watch",
+      "mean": "表",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/31 18:50",
+      "id": 788
+    },
+    {
+      "word": "ring",
+      "mean": "戒指",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/31 18:51",
+      "id": 789
+    },
+    {
+      "word": "call",
+      "mean": "打电话",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/3/31 18:52",
+      "id": 790
+    },
+    {
+      "word": "set",
+      "mean": "一套；一副",
+      "allTesting": 8,
+      "successTesting": 6,
+      "entryDate": "2022/3/31 18:52",
+      "id": 791
+    },
+    {
+      "word": "bookcase",
+      "mean": "书架；书柜",
+      "allTesting": 7,
+      "successTesting": 6,
+      "entryDate": "2022/3/31 18:53",
+      "id": 792
+    },
+    {
+      "word": "radio",
+      "mean": "收音机",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/3/31 18:54",
+      "id": 793
+    },
+    {
+      "word": "tape",
+      "mean": "磁带",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/31 18:55",
+      "id": 794
+    },
+    {
+      "word": "tape player",
+      "mean": "播放机",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/31 19:4",
+      "id": 795
+    },
+    {
+      "word": "model",
+      "mean": "模型",
+      "allTesting": 7,
+      "successTesting": 5,
+      "entryDate": "2022/3/31 19:15",
+      "id": 796
+    },
+    {
+      "word": "tidy",
+      "mean": "整洁的；井井有条的",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/3/31 19:16",
+      "id": 797
+    },
+    {
+      "word": "soccer",
+      "mean": "（英式）足球",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/3/31 19:16",
+      "id": 798
+    },
+    {
+      "word": "volleyball",
+      "mean": "排球",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/4/1 18:23",
+      "id": 799
+    },
+    {
+      "word": "tennis",
+      "mean": "网球",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:23",
+      "id": 800
+    },
+    {
+      "word": "boring",
+      "mean": "没趣的；令人乏味的",
+      "allTesting": 7,
+      "successTesting": 5,
+      "entryDate": "2022/4/1 18:24",
+      "id": 801
+    },
+    {
+      "word": "difficult",
+      "mean": "困难的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:24",
+      "id": 802
+    },
+    {
+      "word": "relaxing",
+      "mean": "轻松地",
+      "allTesting": 1,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:25",
+      "id": 803
+    },
+    {
+      "word": "same",
+      "mean": "相同的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:25",
+      "id": 804
+    },
+    {
+      "word": "only",
+      "mean": "只；仅",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/4/1 18:26",
+      "id": 805
+    },
+    {
+      "word": "classmate",
+      "mean": "同班同学",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/1 18:27",
+      "id": 806
+    },
+    {
+      "word": "think about",
+      "mean": "思考；思索",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/4/1 18:27",
+      "id": 807
+    },
+    {
+      "word": "habit",
+      "mean": "习惯",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:28",
+      "id": 808
+    },
+    {
+      "word": "question",
+      "mean": "问题",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/4/1 18:29",
+      "id": 809
+    },
+    {
+      "word": "trousers",
+      "mean": "裤子",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/4/1 18:29",
+      "id": 810
+    },
+    {
+      "word": "pair",
+      "mean": "一双",
+      "allTesting": 3,
+      "successTesting": 2,
+      "entryDate": "2022/4/1 18:30",
+      "id": 811
+    },
+    {
+      "word": "sell",
+      "mean": "出售",
+      "allTesting": 3,
+      "successTesting": 1,
+      "entryDate": "2022/4/1 18:31",
+      "id": 812
+    },
+    {
+      "word": "store",
+      "mean": "商店",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/1 18:32",
+      "id": 813
+    },
+    {
+      "word": "month",
+      "mean": "月份",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/4/4 8:35",
+      "id": 814
+    },
+    {
+      "word": "eighth",
+      "mean": "第八",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/4/4 8:35",
+      "id": 815
+    },
+    {
+      "word": "ninth",
+      "mean": "第九",
+      "allTesting": 7,
+      "successTesting": 6,
+      "entryDate": "2022/4/4 8:36",
+      "id": 816
+    },
+    {
+      "word": "test",
+      "mean": "测试；检查",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/4 8:36",
+      "id": 817
+    },
+    {
+      "word": "term",
+      "mean": "学期",
+      "allTesting": 5,
+      "successTesting": 4,
+      "entryDate": "2022/4/4 8:36",
+      "id": 818
+    },
+    {
+      "word": "subject",
+      "mean": "学科；科目",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/4/4 8:37",
+      "id": 819
+    },
+    {
+      "word": "geography",
+      "mean": "地理",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/4/4 8:38",
+      "id": 820
+    },
+    {
+      "word": "history",
+      "mean": "历史",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/4 8:39",
+      "id": 821
+    },
+    {
+      "word": "free",
+      "mean": "空闲的",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/4/4 8:39",
+      "id": 822
+    },
+    {
+      "word": "useful",
+      "mean": "有用的；有益的",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/4 8:39",
+      "id": 823
+    },
+    {
+      "word": "hour",
+      "mean": "小时",
+      "allTesting": 11,
+      "successTesting": 11,
+      "entryDate": "2022/4/4 8:40",
+      "id": 824
+    },
+    {
+      "word": "guitar",
+      "mean": "吉他",
+      "allTesting": 22,
+      "successTesting": 20,
+      "entryDate": "2022/4/4 8:42",
+      "id": 825
+    },
+    {
+      "word": "chess",
+      "mean": "国际象棋",
+      "allTesting": 17,
+      "successTesting": 17,
+      "entryDate": "2022/4/4 8:43",
+      "id": 826
+    },
+    {
+      "word": "write",
+      "mean": "写作",
+      "allTesting": 16,
+      "successTesting": 16,
+      "entryDate": "2022/4/4 8:43",
+      "id": 827
+    },
+    {
+      "word": "drum",
+      "mean": "鼓",
+      "allTesting": 16,
+      "successTesting": 14,
+      "entryDate": "2022/4/4 8:44",
+      "id": 828
+    },
+    {
+      "word": "violin",
+      "mean": "小提琴",
+      "allTesting": 16,
+      "successTesting": 16,
+      "entryDate": "2022/4/4 8:44",
+      "id": 829
+    },
+    {
+      "word": "center",
+      "mean": "中心；中央",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/5 8:55",
+      "id": 830
+    },
+    {
+      "word": "musician",
+      "mean": "音乐家",
+      "allTesting": 8,
+      "successTesting": 8,
+      "entryDate": "2022/4/5 8:56",
+      "id": 831
+    },
+    {
+      "word": "brush",
+      "mean": "刷；刷子",
+      "allTesting": 14,
+      "successTesting": 14,
+      "entryDate": "2022/4/5 8:56",
+      "id": 832
+    },
+    {
+      "word": "tooth",
+      "mean": "牙齿",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/5 8:56",
+      "id": 833
+    },
+    {
+      "word": "shower",
+      "mean": "淋浴；淋浴器",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/4/5 8:57",
+      "id": 834
+    },
+    {
+      "word": "never",
+      "mean": "从不",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/4/5 8:57",
+      "id": 835
+    },
+    {
+      "word": "station",
+      "mean": "电视台；车站",
+      "allTesting": 14,
+      "successTesting": 14,
+      "entryDate": "2022/4/5 8:58",
+      "id": 836
+    },
+    {
+      "word": "exercise",
+      "mean": "锻炼",
+      "allTesting": 12,
+      "successTesting": 12,
+      "entryDate": "2022/4/5 8:59",
+      "id": 837
+    },
+    {
+      "word": "group",
+      "mean": "组；群",
+      "allTesting": 12,
+      "successTesting": 10,
+      "entryDate": "2022/4/5 8:59",
+      "id": 838
+    },
+    {
+      "word": "past",
+      "mean": "晚于",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/4/5 9:0",
+      "id": 839
+    },
+    {
+      "word": "quarter",
+      "mean": "一刻钟；四分之一",
+      "allTesting": 6,
+      "successTesting": 5,
+      "entryDate": "2022/4/5 9:1",
+      "id": 840
+    },
+    {
+      "word": "run",
+      "mean": "跑；奔",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/4/5 9:1",
+      "id": 841
+    },
+    {
+      "word": "either",
+      "mean": "或者",
+      "allTesting": 7,
+      "successTesting": 5,
+      "entryDate": "2022/4/5 9:2",
+      "id": 842
+    },
+    {
+      "word": "lot",
+      "mean": "大量；许多",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/4/5 9:3",
+      "id": 843
+    },
+    {
+      "word": "taste",
+      "mean": "品尝；味道；滋味",
+      "allTesting": 7,
+      "successTesting": 6,
+      "entryDate": "2022/4/5 9:4",
+      "id": 844
+    },
+    {
+      "word": "life",
+      "mean": "生活",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/4/5 9:4",
+      "id": 845
+    },
+    {
+      "word": "ride",
+      "mean": "骑",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/4/6 18:34",
+      "id": 846
+    },
+    {
+      "word": "sixty",
+      "mean": "六十",
+      "allTesting": 8,
+      "successTesting": 7,
+      "entryDate": "2022/4/7 18:16",
+      "id": 847
+    },
+    {
+      "word": "seventy",
+      "mean": "七十",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/4/7 18:16",
+      "id": 848
+    },
+    {
+      "word": "ninety",
+      "mean": "九十",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/7 18:17",
+      "id": 849
+    },
+    {
+      "word": "cross",
+      "mean": "横过；穿过",
+      "allTesting": 13,
+      "successTesting": 11,
+      "entryDate": "2022/4/9 7:51",
+      "id": 850
+    },
+    {
+      "word": "villager",
+      "mean": "村民",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/4/12 18:57",
+      "id": 851
+    },
+    {
+      "word": "ropeway",
+      "mean": "索道",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:4",
+      "id": 852
+    },
+    {
+      "word": "leave",
+      "mean": "离开",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:5",
+      "id": 853
+    },
+    {
+      "word": "true",
+      "mean": "真的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:5",
+      "id": 854
+    },
+    {
+      "word": "rule",
+      "mean": "规则；规章",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:5",
+      "id": 855
+    },
+    {
+      "word": "arrive",
+      "mean": "到达",
+      "allTesting": 2,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:6",
+      "id": 856
+    },
+    {
+      "word": "hallway",
+      "mean": "走廊",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:6",
+      "id": 857
+    },
+    {
+      "word": "listen",
+      "mean": "听",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:6",
+      "id": 858
+    },
+    {
+      "word": "fight",
+      "mean": "打架；战斗",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:7",
+      "id": 859
+    },
+    {
+      "word": "important",
+      "mean": "重要的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:7",
+      "id": 860
+    },
+    {
+      "word": "bring",
+      "mean": "带来；取来",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:7",
+      "id": 861
+    },
+    {
+      "word": "uniform",
+      "mean": "校服；制服",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:8",
+      "id": 862
+    },
+    {
+      "word": "out",
+      "mean": "外出",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/12 19:8",
+      "id": 863
+    },
+    {
+      "word": "practice",
+      "mean": "练习",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:9",
+      "id": 864
+    },
+    {
+      "word": "dish",
+      "mean": "碟；盘",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/12 19:9",
+      "id": 865
+    },
+    {
+      "word": "noisy",
+      "mean": "吵闹的",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/12 19:9",
+      "id": 866
+    },
+    {
+      "word": "relay",
+      "mean": "放松；休息",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:22",
+      "id": 867
+    },
+    {
+      "word": "terrible",
+      "mean": "非常讨厌的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:23",
+      "id": 868
+    },
+    {
+      "word": "remember",
+      "mean": "记住",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:23",
+      "id": 869
+    },
+    {
+      "word": "luck",
+      "mean": "幸运；运气",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:24",
+      "id": 870
+    },
+    {
+      "word": "koala",
+      "mean": "考拉",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:25",
+      "id": 871
+    },
+    {
+      "word": "lion",
+      "mean": "狮子",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:25",
+      "id": 872
+    },
+    {
+      "word": "lazy",
+      "mean": "懒散的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:26",
+      "id": 873
+    },
+    {
+      "word": "scary",
+      "mean": "吓人的；恐怖的",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:34",
+      "id": 874
+    },
+    {
+      "word": "pet",
+      "mean": "宠物",
+      "allTesting": 0,
+      "successTesting": 0,
+      "entryDate": "2022/4/13 19:34",
+      "id": 875
+    },
+    {
+      "word": "save",
+      "mean": "救；救助",
+      "allTesting": 2,
+      "successTesting": 2,
+      "entryDate": "2022/4/13 19:34",
+      "id": 876
+    },
+    {
+      "word": "flag",
+      "mean": "旗帜",
+      "allTesting": 6,
+      "successTesting": 6,
+      "entryDate": "2022/4/13 19:35",
+      "id": 877
+    },
+    {
+      "word": "forget",
+      "mean": "忘记；遗忘",
+      "allTesting": 4,
+      "successTesting": 3,
+      "entryDate": "2022/4/13 19:35",
+      "id": 878
+    },
+    {
+      "word": "place",
+      "mean": "地点；位置",
+      "allTesting": 10,
+      "successTesting": 9,
+      "entryDate": "2022/4/13 19:35",
+      "id": 879
+    },
+    {
+      "word": "danger",
+      "mean": "危险",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/4/13 19:36",
+      "id": 880
+    },
+    {
+      "word": "kill",
+      "mean": "杀死",
+      "allTesting": 7,
+      "successTesting": 7,
+      "entryDate": "2022/4/13 19:36",
+      "id": 881
+    },
+    {
+      "word": "newspaper",
+      "mean": "报纸",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/4/13 19:37",
+      "id": 882
+    },
+    {
+      "word": "movie",
+      "mean": "电影",
+      "allTesting": 3,
+      "successTesting": 3,
+      "entryDate": "2022/4/13 19:37",
+      "id": 883
+    },
+    {
+      "word": "pool",
+      "mean": "游泳池",
+      "allTesting": 1,
+      "successTesting": 1,
+      "entryDate": "2022/4/13 19:38",
+      "id": 884
+    },
+    {
+      "word": "host",
+      "mean": "主人",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/4/13 19:38",
+      "id": 885
+    },
+    {
+      "word": "state",
+      "mean": "州",
+      "allTesting": 4,
+      "successTesting": 4,
+      "entryDate": "2022/4/13 19:38",
+      "id": 886
+    },
+    {
+      "word": "wish",
+      "mean": "希望",
+      "allTesting": 9,
+      "successTesting": 9,
+      "entryDate": "2022/4/13 19:39",
+      "id": 887
+    },
+    {
+      "word": "rain",
+      "mean": "下雨",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/13 19:40",
+      "id": 888
+    },
+    {
+      "word": "message",
+      "mean": "消息",
+      "allTesting": 5,
+      "successTesting": 4,
+      "entryDate": "2022/4/13 19:40",
+      "id": 889
+    },
+    {
+      "word": "back",
+      "mean": "回来",
+      "allTesting": 10,
+      "successTesting": 10,
+      "entryDate": "2022/4/13 19:40",
+      "id": 890
+    },
+    {
+      "word": "again",
+      "mean": "再一次",
+      "allTesting": 5,
+      "successTesting": 5,
+      "entryDate": "2022/4/13 19:41",
+      "id": 891
     }
   ],
   "daily": {
-    "todayAllTest": 8267,
-    "todaySuccess": 7918,
-    "yesterdayAllTest": 200,
-    "yesterdaySuccess": 189,
+    "todayAllTest": 24487,
+    "todaySuccess": 23210,
+    "yesterdayAllTest": 203,
+    "yesterdaySuccess": 185,
     "id": 1
   },
   "dailyData": [
@@ -4466,6 +7162,167 @@
       "allTest": 200,
       "successTest": 189,
       "monthDataId": "2022-3"
+    },
+    {
+      "id": 12,
+      "monthDataId": "2022-3",
+      "allTest": 400,
+      "successTest": 371,
+      "addWord": 35
+    },
+    {
+      "id": 13,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 192,
+      "addWord": 18
+    },
+    {
+      "id": 15,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 185,
+      "addWord": 22
+    },
+    {
+      "id": 16,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 184,
+      "addWord": 15
+    },
+    {
+      "id": 17,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 193,
+      "addWord": 15
+    },
+    {
+      "id": 20,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 193,
+      "addWord": 15
+    },
+    {
+      "id": 21,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 190,
+      "addWord": 21
+    },
+    {
+      "id": 22,
+      "monthDataId": "2022-3",
+      "allTest": 204,
+      "successTest": 192,
+      "addWord": 15
+    },
+    {
+      "id": 24,
+      "monthDataId": "2022-3",
+      "allTest": 200,
+      "successTest": 185,
+      "addWord": 15
+    },
+    {
+      "id": 25,
+      "monthDataId": "2022-3",
+      "allTest": 201,
+      "successTest": 190,
+      "addWord": 15
+    },
+    {
+      "id": 26,
+      "monthDataId": "2022-3",
+      "allTest": 201,
+      "successTest": 192,
+      "addWord": 16
+    },
+    {
+      "id": 27,
+      "monthDataId": "2022-3",
+      "allTest": 201,
+      "successTest": 187,
+      "addWord": 15
+    },
+    {
+      "id": 28,
+      "monthDataId": "2022-3",
+      "allTest": 242,
+      "successTest": 227,
+      "addWord": 29
+    },
+    {
+      "id": 29,
+      "monthDataId": "2022-3",
+      "allTest": 225,
+      "successTest": 200,
+      "addWord": 15
+    },
+    {
+      "id": 30,
+      "monthDataId": "2022-3",
+      "allTest": 201,
+      "successTest": 183,
+      "addWord": 15
+    },
+    {
+      "id": 31,
+      "monthDataId": "2022-3",
+      "allTest": 201,
+      "successTest": 181,
+      "addWord": 15
+    },
+    {
+      "id": 1,
+      "monthDataId": "2022-4",
+      "allTest": 200,
+      "successTest": 176,
+      "addWord": 15
+    },
+    {
+      "id": 3,
+      "monthDataId": "2022-4",
+      "allTest": 1,
+      "successTest": 1,
+      "addWord": 0
+    },
+    {
+      "id": 4,
+      "monthDataId": "2022-4",
+      "allTest": 204,
+      "successTest": 185,
+      "addWord": 16
+    },
+    {
+      "id": 5,
+      "monthDataId": "2022-4",
+      "allTest": 201,
+      "successTest": 196,
+      "addWord": 16
+    },
+    {
+      "id": 10,
+      "monthDataId": "2022-4",
+      "allTest": 253,
+      "successTest": 241,
+      "addWord": 22
+    },
+    {
+      "id": 12,
+      "monthDataId": "2022-4",
+      "allTest": 204,
+      "successTest": 180,
+      "addWord": 22
+    },
+    {
+      "id": 13,
+      "monthDataId": "2022-4",
+      "allTest": 203,
+      "successTest": 185,
+      "addWord": 18
     }
   ]
 }

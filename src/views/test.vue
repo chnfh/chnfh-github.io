@@ -32,7 +32,7 @@
             </div>
         </div>
         
-        <!-- <button @click="t">1</button> -->
+        <button @click="t">1</button>
     </div>
 </template>
 
@@ -90,7 +90,8 @@ export default {
     methods: {
            t(){
        
-            localStorage.setItem('today',`4`);
+            localStorage.setItem('yesterdayDate' , 17)
+            alert(1)
        
               },
         insWords(){
