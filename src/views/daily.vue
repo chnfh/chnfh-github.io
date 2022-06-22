@@ -2,11 +2,11 @@
   <div class="daily">
       <div class="line">
           <div class="line-left"><el-progress :percentage="this.dailyAll"   ></el-progress></div>
-          <div class="line-right"><small>距总量1000 | 当前总量为 {{this.$store.state.tableData.length}}</small></div>
+          <div class="line-right"><small>距总量10000 | 当前总量为 {{this.$store.state.tableData.length}}</small></div>
       </div>
       <div class="line">
           <div class="line-left"><el-progress :percentage="this.addAll"></el-progress></div>
-          <div class="line-right"><small>每日新增单词15个 | 当前新增{{this.$store.state.dailyData.addWord}}</small></div>
+          <div class="line-right"><small>每日新增单词10个 | 当前新增{{this.$store.state.dailyData.addWord}}</small></div>
           
       </div>
       <div class="line">
@@ -37,8 +37,8 @@ import axios from 'axios'
   export default {
       data() {
           return {
-              dailyAll:this.$store.state.tableData.length/1000, 
-              addAll:Number(((Number(this.$store.state.dailyData.addWord)/15)*100).toFixed(1)),
+              dailyAll:this.$store.state.tableData.length/100, 
+              addAll:Number(((Number(this.$store.state.dailyData.addWord)/10)*100).toFixed(1)),
               reviewAll:Number(((Number(this.$store.state.dailyData.todayAllTest)/200)*100).toFixed(1)) ,
               successAll:Number( (Number(this.$store.state.dailyData.todaySuccess)/Number(this.$store.state.dailyData.todayAllTest)*100).toFixed(2)),
           }

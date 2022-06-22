@@ -68,7 +68,7 @@ export default {
 					//url: `http://localhost:3000/dailyData`,
           url: `http://localhost:3000/monthDatas/${localStorage.getItem('yesterYearDate')}/day`,
 					data: {
-            id:Number(localStorage.getItem('yesterdayDate')),
+            day:Number(localStorage.getItem('yesterdayDate')),
             monthDataId: localStorage.getItem('yesterYearDate'),
             allTest: Number(localStorage.getItem('todayAllTest')),
             successTest: Number(localStorage.getItem('todaySuccess')),
